@@ -1,5 +1,5 @@
 class TopController < ApplicationController
   def index
-    @products = Product.all
+    @products = Product.active
   end
 end

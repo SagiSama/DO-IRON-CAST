@@ -26,6 +26,7 @@ ActiveRecord::Schema.define(version: 2020_03_26_113605) do
     t.decimal "price", precision: 64, scale: 4, default: "0.0", null: false
     t.string "image_for_zoom", limit: 256
     t.string "image_for_form", limit: 256
+    t.integer "status", limit: 1, default: 0, null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

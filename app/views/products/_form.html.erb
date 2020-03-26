@@ -1,9 +1,13 @@
 <%= form_for @product do |f| %>
-  <p><%= f.label :name %></p>
+  <%= f.label :name %>
   <%= f.text_field :name %>
-  <p><%= f.label :note %></p>
+  <%= f.label :note %>
   <%= f.text_area :note %>
-  <p><%= f.label :price %></p>
+  <%= f.label :price %>
   <%= f.number_field :price %>
+  <%= label :contactmethod_email, 'Active' %>
+  <%= f.radio_button :status, :active, checked: true %>
+  <%= label :contactmethod_sms, 'Inactive' %>
+  <%= f.radio_button :status, :inactive %>
   <%= f.submit "Submit" %>
 <% end %>

@@ -1,3 +1,20 @@
 <h1> HI THIS IS A TOP PAGE !?.</h1>
 
-<%= @products.first.name %>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Note</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @products.each do |product| %>
+      <tr>
+        <td><%= product.name %></td>
+        <td><%= product.note %></td>
+        <td><%= product.price %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
