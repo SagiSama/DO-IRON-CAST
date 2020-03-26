@@ -1,4 +1,5 @@
 class ProductsController < ApplicationController
+  before_action :authenticate_account!
   before_action :target_product, only: %i[edit show update]
 
   def index
