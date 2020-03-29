@@ -23,7 +23,12 @@
 
 <%= javascript_pack_tag 'top/index' %>
 <script>
+    window.setInterval(function(){
+        plusSlides(1);
+    }, 5000);
+
     var slideIndex = 1;
+
     showSlides(slideIndex);
 
     function plusSlides(n) {
