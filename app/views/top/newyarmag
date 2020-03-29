@@ -1,0 +1,1484 @@
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700&subset=cyrillic,cyrillic-ext" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="/Content/OnePage?v=11" />
+
+    <title>Шинэ яармаг цогцолбор хороолол</title>
+
+</head>
+<body>
+<div class="preloader"></div>
+<div class="mainframe">
+    <div id="fullpage">
+        <div class="section" id="page1" style="background:url(/Images/onepage/page0-back.jpg) no-repeat;background-size:cover;">
+            <div style="text-align:center">
+
+                <img id='logo' src='/Images/onepage/ver-logo.svg' class='logo wow animated fadeInDown' data-wow-delay='0.2s' />
+            </div>
+        </div>
+        <div class="section" id="page2">
+            <div class="container" style="position:relative;height:100%;" >
+                <div class="text1">ШИНЭ ЯАРМАГ ЦОГЦОЛБОР ХОРООЛЛЫГ <b>СОНГОХ</b></div>
+                <div id = "featurecount" class="number" style="">1</div>
+                <div class="text2"><b>ШАЛТГААН</b></div>
+            </div>
+        </div>
+
+        <div class="section " id="section3">
+
+            <style>
+                .grad1000 {
+                    background: ;
+                    background: -webkit-linear-gradient(left,, );
+                    background: -o-linear-gradient(right,, );
+                    background: -moz-linear-gradient(right, , );
+                    background: linear-gradient(to right, , );
+                }
+            </style>
+            <div class="onepage " style="background:;;" >
+                <div>
+                    <div class="icon">
+                    </div>
+
+
+                    <h2 class="title">Шинэ яармаг цогцолбор хорооллыг сонгох 8 шалтгаан</h2>
+
+                    <div class="items container">
+                        <div class="row">
+
+
+                            <div class="oneitem col-sm-6 wow animated fadeInLeft" data-anim="fadeInLeft"  data-wow-delay=0.2s>
+                                <div style="background:;padding:20px;Height:180px;margin-top:10px;">
+                                    <table style="width: 100%;" border="0"><tbody><tr><td style="width: 50px;"><img src="../images/onepage/item1-1.svg" alt="" width="36" /></td><td><strong>ХӨРӨНГӨ ОРУУЛАЛТ</strong></td></tr><tr><td>&nbsp;</td><td><span style="font-size: medium;">ҮРГЭЛЖ ӨСӨН НЭМЭГДЭХ ҮНЭ ЦЭНЭ</span><br />Шинэ суурьшлын бүс нь ойрын ирээдүйд Улаанбаатар хотын хамгийн&nbsp;үнэ цэнэтэй байршил болох бөгөөд байршил, шилдэг төлөвлөлт, чанартай&nbsp;гүйцэтгэл, ОУ жишиг цогцолбор хороолол нь Таны амьдралдаа хийх хамгийн зөв хөрөнгө оруулалт болох юм.</td></tr></tbody></table>
+                                </div>
+                            </div>
+                            <div class="oneitem col-sm-6 wow animated fadeInRight" data-anim="fadeInRight"  data-wow-delay=0.4s>
+                                <div style="background:;padding:20px;Height:180px;margin-top:10px;">
+                                    <table style="width: 100%;" border="0"><tbody><tr><td style="width: 50px;"><img src="../images/onepage/item1-2.svg" alt="" width="36" /></td><td><strong>ГЭР БҮЛ, АЗ ЖАРГАЛТАЙ АМЬДРАЛ</strong></td></tr><tr><td>&nbsp;</td><td><span style="font-size: medium;">ЭНЭ БОЛ ЗҮГЭЭР НЭГ БАЙР БИШ ЭНЭ БОЛ ТАНЫ ЖИНХЭНЭ ГЭР</span><br /> Хорооллын гадна дотно орчин нь Таны гэр бүлд халуун дулаан уур амьсгалыг бүрдүүлж, амар тайван амьдрах нөхцлөөр хангах бөгөөд оновчтой байрлал бүхий нийтийн үйлчилгээний төвүүд нь эрхэм таны гэр бүлдээ зарцуулах алтан цагийг хэмнэж, аз жаргалтай амьдралын тань хором мөч бүрийг уртасгах болно.</td></tr></tbody></table>
+                                </div>
+                            </div>
+                            <div class="oneitem col-sm-6 wow animated fadeInLeft" data-anim="fadeInLeft"  data-wow-delay=0.6s>
+                                <div style="background:;padding:20px;Height:180px;margin-top:10px;">
+                                    <table style="width: 100%;" border="0"><tbody><tr><td style="width: 50px;"><img src="../images/onepage/item1-3.svg" alt="" width="34" /></td><td><strong>ЧАНАР</strong></td></tr><tr><td>&nbsp;</td><td><span style="font-size: medium;">ЦАГ ХУГАЦАА ӨНГӨРӨХ ТУСАМ ҮНЭ ЦЭНЭЭ ҮЛ АЛДАХ ЧАНАР</span><br />Ерөнхий гүйцэтгэгч Дельта констракшн ХХК ОУ-ын стандартын барилга угсралтын&nbsp;ажлыг захиалагчийн хяналтын доор чанартай бүтээцийн материал, шилдэг&nbsp;шинэ технологи ашиглан гүйцэтгэж байна. Дэлхийн алдартай брэндүүд болон&nbsp;Монголын зах зээлд тэргүүлэх бүтээгдэхүүнээр тоноглолоо сонгосон.</td></tr></tbody></table>
+                                </div>
+                            </div>
+                            <div class="oneitem col-sm-6 wow animated fadeInRight" data-anim="fadeInRight"  data-wow-delay=0.8s>
+                                <div style="background:;padding:20px;Height:180px;margin-top:10px;">
+                                    <table style="width: 100%;" border="0"><tbody><tr><td style="width: 50px;"><img src="../images/onepage/item1-4.svg" alt="" height="33" /></td><td><strong>ШИЛДЭГ ТӨЛӨВЛӨЛТ</strong></td></tr><tr><td>&nbsp;</td><td><span style="font-size: medium;">ХҮН ТӨВТЭЙ ЦОГЦ ТӨЛӨВЛӨЛТ</span><br />Хүний амьдралын хором мөч бүр дэх үйлдэлийг тооцоолж түүнд хэрэгтэй&nbsp;орон зайг архитекторын ур ухаанаар төлөвлөснөөрөө "Ази Номхон Далайн Үл хөдлөх Хөрөнгийн Шилдэг Авард" ОУ шагнал хүртсэн.</td></tr></tbody></table>
+                                </div>
+                            </div>
+                            <div class="oneitem col-sm-6 wow animated fadeInLeft" data-anim="fadeInLeft"  data-wow-delay=1s>
+                                <div style="background:;padding:20px;Height:180px;margin-top:10px;">
+                                    <table style="width: 100%;" border="0"><tbody><tr><td style="width: 50px;"><img src="../images/onepage/item1-5.svg" alt="" width="36" /></td><td><strong>ШИЛДЭГ ҮЙЛЧИЛГЭЭ</strong></td></tr><tr><td>&nbsp;</td><td><span style="font-size: medium;">ОРЧИН ҮЕИЙН АМЬДРАЛЫН ХЭВ МАЯГ, 5 ОДТОЙ ҮЙЛЧИЛГЭЭ</span><br />Монголд анх удаа цогцолбор хорооллын хэмжээнд ОУ-ын стандартад нийцсэн нийтийн&nbsp;аж ахуй, ахуйн үйлчилгээний цогц шийдлийг нэвтрүүлж оршин суугчдынхаа тав тухыг хангах болно.</td></tr></tbody></table>
+                                </div>
+                            </div>
+                            <div class="oneitem col-sm-6 wow animated fadeInRight" data-anim="fadeInRight"  data-wow-delay=1s>
+                                <div style="background:;padding:20px;Height:180px;margin-top:10px;">
+                                    <table style="width: 100%;" border="0"><tbody><tr><td style="width: 50px;"><img src="../images/onepage/item1-6.svg" alt="" height="40" /></td><td><strong>АРХИТЕКТУР, ИНТЕРЬЕР</strong></td></tr><tr><td>&nbsp;</td><td><span style="font-size: medium;">ОРЧИН ҮЕИЙН УХААЛАГ ШИЙДЭЛ</span><br />Хорооллын гадна, дотор төлөвлөлт нь зай талбайг зориулалтын дагуу бүрэн ашиглаж, өрөө &nbsp;тус бүрийг хувь хүний болон нийтийн орон зайгаар тусгаарлаж өгснөөрөө орчин үеийн ухаалаг, минимал шийдэлтэй юм.</td></tr></tbody></table>
+                                </div>
+                            </div>
+                            <div class="oneitem col-sm-6 wow animated fadeInLeft" data-anim="fadeInLeft"  data-wow-delay=1.2s>
+                                <div style="background:;padding:20px;Height:180px;margin-top:10px;">
+                                    <table style="width: 100%;" border="0"><tbody><tr><td style="width: 50px;"><img src="../images/onepage/item1-7.svg" alt="" width="36" /></td><td><strong>ОРЧИН, ХӨРШ</strong></td></tr><tr><td>&nbsp;</td><td><span style="font-size: medium;">ЭРҮҮЛ, АЮУЛГҮЙ, ТУХТАЙ ОРЧИН - ЭЕЛДЭГ ХӨРШИЙН ХАРИЛЦАА</span><br />Айл хүний амь нэг, саахалт хүний санаа нэг гэдэгчлэн хөршийн сайхан харилцааг&nbsp;бүрдүүлэх хөтөлбөртэй. Сайхан орчинд сайн хөршүүдийн хамт тайван,&nbsp;халуун дулаан уур амьсгалыг мэдрэн амьдрах боломж бүрдэнэ.</td></tr></tbody></table>
+                                </div>
+                            </div>
+                            <div class="oneitem col-sm-6 wow animated fadeInRight" data-anim="fadeInRight"  data-wow-delay=1.2s>
+                                <div style="background:;padding:20px;Height:180px;margin-top:10px;">
+                                    <table style="width: 100%;" border="0"><tbody><tr><td style="width: 50px;"><img src="../images/onepage/item1-8.svg" alt="" height="30" /></td><td><strong>ЗЭЭЛ</strong></td></tr><tr><td>&nbsp;</td><td>Илүү сайн санхүүгийн нөхцөлөөр илүү чанар, илүү үйлчилгээг авах боломжийг&nbsp;хүн бүрт олгож байгаа тул эрхэм та амьдрах орчноо ОУ жишиг стандартынх болгон сайжруулах,&nbsp;нийслэл хотын хөгжил, цэцэглэлтийг дэмжих нийгмийн хариуцлага бүхий сонголтыг хийх болно.</td></tr></tbody></table>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section " id="section4">
+            <div class="slide" id="slide1002" data-anchor="slide1002">
+
+                <style>
+                    .grad1002 {
+                        background: #EAEAE4;
+                        background: -webkit-linear-gradient(left,#EAEAE4, );
+                        background: -o-linear-gradient(right,#EAEAE4, );
+                        background: -moz-linear-gradient(right, #EAEAE4, );
+                        background: linear-gradient(to right, #EAEAE4, );
+                    }
+                </style>
+                <div class="onepage " style="background:#EAEAE4;;" >
+                    <div>
+                        <div class="icon">
+                            <img src="/Images/onepage/item1-1.svg" style="width:36px;" />        </div>
+
+
+                        <h2 class="title">Хөрөнгө оруулалт</h2>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+                                <div class="oneitem col-sm-12 wow animated fadeIn" data-anim="fadeIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:100%;margin-top:10px;">
+                                        <div style="text-align: center;"><img style="max-height: 70vh; max-width: 100%;" src="../images/onepage/image2-1.png" alt="" /></div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" id="slide1003" data-anchor="slide1003">
+
+                <style>
+                    .grad1003 {
+                        background: #EAEAE4;
+                        background: -webkit-linear-gradient(left,#EAEAE4, );
+                        background: -o-linear-gradient(right,#EAEAE4, );
+                        background: -moz-linear-gradient(right, #EAEAE4, );
+                        background: linear-gradient(to right, #EAEAE4, );
+                    }
+                </style>
+                <div class="onepage " style="background:#EAEAE4;;" >
+                    <div>
+                        <div class="icon">
+                            <img src="/Images/onepage/item1-1.svg" style="width:36px;" />        </div>
+
+
+                        <h2 class="title">Хөрөнгө оруулалт</h2>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+                                <div class="oneitem col-sm-6 col-xs-12 col-lg-3 wow animated bounceInRight" data-anim="bounceInRight"  data-wow-delay=0.2s>
+                                    <div style="background:white;padding:20px;Height:340px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-2-2-1.svg" alt="" height="60" /></p><p style="text-align: center;"><span style="font-size: small;">ДАРХАН ЦААЗАТ БОГД-ХАН УУЛ</span></p><p style="text-align: justify;">Уулын эко системтэй ойр орших байршил нь хуш, гацуур, нарсан ойн фотосинтезийн үр дүнд&nbsp;бий болж буй хүчилтөрөгчөөр баялаг агаарын&nbsp;чанарыг бий болгодог байна.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-xs-12 col-lg-3 wow animated bounceInRight" data-anim="bounceInRight"  data-wow-delay=0.3s>
+                                    <div style="background:white;padding:20px;Height:340px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-2-2-2.svg" alt="" height="60" /></p><p style="text-align: center;"><span style="font-size: small;">ТУУЛ ГОЛ</span></p><p style="text-align: justify;">Голын ус өвөлдөө хөлдөн хатуу төлвөөс шууд&nbsp;хийн төлөв ууршин шилжиж сублимаци үзэгдэл&nbsp;явагдах бөгөөд үүний үр дүнд үүссэн усны урын&nbsp;нэгдэл хүйтэн темпратурт конденсаци болж&nbsp;/хийн төлөвт байгаа усны нэгдэл шууд хатуу&nbsp;төлөвт шилжин нүдэнд үл үзэгдэх мөсөн талст<br />үүсгэдэг/ агаарын бохирдол үүсгэж буй хорт&nbsp;утааны хүнд металийг шүүж, сүүмгэр цагаан&nbsp;утаа болгодог байна.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-xs-12 col-lg-3 wow animated bounceInRight" data-anim="bounceInRight"  data-wow-delay=0.4s>
+                                    <div style="background:white;padding:20px;Height:340px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-2-2-3.svg" alt="" height="60" /></p><p style="text-align: center;"><span style="font-size: small;">АГААР БОЛОН ХӨРСНИЙ&nbsp;БОХИРДОЛГҮЙ ХЭСЭГ</span></p><p style="text-align: justify;">Өмнө барилгажилт явагдаж байгаагүй эрүүл&nbsp;хөрс нь нянгийн бохирдол, орчны бохирдолгүй&nbsp;байдаг нь эрүүл ахуй талаасаа өндөр ач&nbsp;холбогдолтой байдаг ажээ. Агаарын бохирдлын&nbsp;зэрэг хамгийн бага бүсэд ордог нь гол уулын&nbsp;дунд орших байршлаас хамааралтай юм.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-xs-12 col-lg-3 wow animated bounceInLeft" data-anim="bounceInLeft"  data-wow-delay=0.4s>
+                                    <div style="background:white;padding:20px;Height:340px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-2-2-4.svg" alt="" height="60" /></p><p style="text-align: center;"><span style="font-size: small;">ЦЭВЭР УСНЫ ХАНГАМЖ&nbsp;&ldquo;KOIKA&rdquo;</span></p><p style="text-align: justify;">Төслийн хүрээнд цэвэр усны хангамж бүрэн&nbsp;шийдэгдсэн.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-xs-12 col-lg-3 wow animated bounceInRight" data-anim="bounceInRight"  data-wow-delay=0.6s>
+                                    <div style="background:white;padding:20px;Height:340px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-2-2-5.svg" alt="" height="100" /></p><p style="text-align: center;"><span style="font-size: small;">ХӨШИГТИЙН ХӨНДИЙН&nbsp;ШИНЭ НИСЭХ ОНГОЦНЫ БУУДАЛ</span></p><p style="text-align: justify;">Олон улсын үл хөдлөх хөрөнгийн үнэлгээний&nbsp;жишиг дагуу шинэ бизнес бүсийн хөгжлийг&nbsp;дагасан үнэ цэнэ бий болно.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-xs-12 col-lg-3 wow animated bounceInLeft" data-anim="bounceInLeft"  data-wow-delay=0.2s>
+                                    <div style="background:white;padding:20px;Height:340px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-2-2-6.svg" alt="" height="100" /></p><p style="text-align: center;"><span style="font-size: small;">ЦАХИЛГААНЫ&nbsp;ДЭД СТАНЦ</span></p><p style="text-align: justify;">Төвийн болон Төв аймгийн 2 эх үүсвэртэй&nbsp;35/10КВ 2*10МВА</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-xs-12 col-lg-3 wow animated bounceInLeft" data-anim="bounceInLeft"  data-wow-delay=0.4s>
+                                    <div style="background:white;padding:20px;Height:340px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-2-2-7.svg" alt="" height="100" /></p><p style="text-align: center;"><span style="font-size: small;">ТӨВИЙН БОХИРЫН БОЛОН&nbsp;ДУЛААНЫ ШУГАМ СҮЛЖЭЭНД&nbsp;ХОЛБОГДСОН</span></p><p style="text-align: justify;">Нисэхийн 13-р магистрал шугамаас татсан.<br />Диаметр Ф400<br />Дулааны шугамын урт: 1350м<br />Бохирын шугамын урт: 2050м</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-xs-12 col-lg-3 wow animated bounceInRight" data-anim="bounceInRight"  data-wow-delay=0.6s>
+                                    <div style="background:white;padding:20px;Height:340px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-2-2-8.svg" alt="" height="100" /></p><p style="text-align: center;"><span style="font-size: small;">УЛААНБААТАР ХОТЫН ЕРӨНХИЙ&nbsp;ТӨЛӨВЛӨГӨӨНИЙ ДАГУУ ШИНЭ&nbsp;СУУРЬШЛЫН БҮС ХОТЫН ШИНЭ&nbsp;ТӨВИЙН БҮС БОЛНО.</span></p><p style="text-align: justify;">Хэтийн хөгжилөөрөө хотын &ldquo;А&rdquo; зэрэглэлд багтах&nbsp;байршилд жишиг хорооллын бүс бий болно.</p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="section " id="section5">
+
+            <style>
+                .grad1004 {
+                    background: ;
+                    background: -webkit-linear-gradient(left,, );
+                    background: -o-linear-gradient(right,, );
+                    background: -moz-linear-gradient(right, , );
+                    background: linear-gradient(to right, , );
+                }
+            </style>
+            <div class="onepage " style="background:; background:url(/images/onepage/page3-back-06.jpg) no-repeat center center; background-size:cover;;" >
+                <div>
+                    <div class="icon">
+                        <img src="/Images/onepage/item1-2.svg" style="width:36px;" />        </div>
+
+
+                    <h2 class="title">ГЭР БҮЛ, АЗ ЖАРГАЛ, АМЬДРАЛ</h2>
+
+                    <div class="items container">
+                        <div class="row">
+
+
+                            <div class="oneitem col-xs-12 " data-anim=""  >
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <p><img style="font-family: Roboto; display: block; margin-left: auto; margin-right: auto;" src="../images/onepage/page36.svg" alt="" width="80%" /></p>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section " id="section6">
+            <div class="slide" id="slide1006" data-anchor="slide1006">
+
+                <style>
+                    .grad1006 {
+                        background: ;
+                        background: -webkit-linear-gradient(left,, );
+                        background: -o-linear-gradient(right,, );
+                        background: -moz-linear-gradient(right, , );
+                        background: linear-gradient(to right, , );
+                    }
+                </style>
+                <div class="onepage " style="background:;;" >
+                    <div>
+                        <div class="icon">
+                            <img src="/Images/onepage/item1-3.svg" style="width:36px;" />        </div>
+
+
+                        <h2 class="title">ЧАНАР</h2>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+                                <div class="oneitem col-xs-12 col-sm-12 wow animated pulse" data-anim="pulse"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                        <p><img style="display: block; margin-left: auto; margin-right: auto;" src="../images/onepage/newyarmag-logo.svg" alt="" width="200" /></p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-xs-12 wow animated fadeIn" data-anim="fadeIn"  data-wow-delay=0.6s>
+                                    <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                        <p style="text-align: center;"><a class="subtitle" href="#section1005Link/slide1007">БҮТЭЭН БАЙГУУЛАЛТ</a> <a class="subtitle" style="margin-left: 10px;" href="#section1005Link/slide1008">БҮТЭЦ ХИЙЦ</a> <a class="subtitle" style="margin-left: 10px;" href="#section1005Link/slide1010">ТОНОГЛОЛ</a></p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" id="slide1007" data-anchor="slide1007">
+
+                <style>
+                    .grad1007 {
+                        background: ;
+                        background: -webkit-linear-gradient(left,, );
+                        background: -o-linear-gradient(right,, );
+                        background: -moz-linear-gradient(right, , );
+                        background: linear-gradient(to right, , );
+                    }
+                </style>
+                <div class="onepage " style="background:;;" >
+                    <div>
+                        <div class="icon">
+                            <img src="/Images/onepage/item1-3.svg" style="width:36px;" />        </div>
+
+
+                        <h2 class="title">ЧАНАР</h2>
+                        <div style="text-align:center">
+                            <a class="subtitle">
+                                БҮТЭЭН БАЙГУУЛАЛТ
+                            </a>
+                        </div>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+                                <div class="oneitem " data-anim=""  >
+                                    <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                        <object data="/images/onepage/page4-21.svg" type="image/svg+xml" style="pointer-events:none"></object>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" id="slide1008" data-anchor="slide1008">
+
+                <style>
+                    .grad1008 {
+                        background: ;
+                        background: -webkit-linear-gradient(left,, );
+                        background: -o-linear-gradient(right,, );
+                        background: -moz-linear-gradient(right, , );
+                        background: linear-gradient(to right, , );
+                    }
+                </style>
+                <div class="onepage " style="background:;;" >
+                    <div>
+                        <div class="icon">
+                            <img src="/Images/onepage/item1-3.svg" style="width:36px;" />        </div>
+
+
+                        <h2 class="title">ЧАНАР</h2>
+                        <div style="text-align:center">
+                            <a class="subtitle">
+                                БҮТЭЭЦ, ХИЙЦ
+                            </a>
+                        </div>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+                                <div class="oneitem col-xl-offset-3 col-xl-2 col-lg-offset-3 col-lg-2 col-md-offset-1 col-md-3 col-sm-4 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-4-1-1.png" alt="" width="202" height="201" /></p><p style="text-align: left;"><span style="font-size: medium;">ХҮЙТЭН ЗАЛГАА</span></p><p style="text-align: justify;">Бүрэн цутгамал барилгын&nbsp;бүтээц хийцийг ОУ-ын&nbsp;стандарт дагуу цутгалтаа&nbsp;горимын дагуу хатаалт хийн,&nbsp;бетоноос үүсэх сүүн шингэнг&nbsp;арилган, залгааны ховилтой&nbsp;хийснээрээ дулаан алдалгүй,&nbsp;өндөрлөгөө тутамд бат бэх&nbsp;болдог.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-xl-2 col-lg-2 col-md-3 col-sm-4 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-4-1-2.png" alt="" width="202" height="201" /></p><p style="text-align: left;"><span style="font-size: medium;">АРМАТУР</span></p><p style="text-align: justify;">Өндөр чанартай 350 маркын&nbsp;арматурыг нягт ихтэй&nbsp;хийснээр барилгын өөрийн&nbsp;бүтээц газар хөдлөлтын 8&nbsp;баллд тэсвэрлэх чанартай&nbsp;болдог.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-xl-2 col-lg-2 col-md-3 col-sm-4 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-4-1-3.png" alt="" width="202" height="201" /></p><p style="text-align: left;"><span style="font-size: medium;">БЕТОН</span></p><p style="text-align: justify;">Барилга угсралт 300 марктай&nbsp;бетоныг барилгын талбай&nbsp;дээрх өөрийн узель-ээс шууд&nbsp;нийлүүлж чанарыг шууд&nbsp;бүтээцэд ашигладаг давуу&nbsp;талтай.</p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" id="slide1009" data-anchor="slide1009">
+
+                <style>
+                    .grad1009 {
+                        background: ;
+                        background: -webkit-linear-gradient(left,, );
+                        background: -o-linear-gradient(right,, );
+                        background: -moz-linear-gradient(right, , );
+                        background: linear-gradient(to right, , );
+                    }
+                </style>
+                <div class="onepage " style="background:;;" >
+                    <div>
+                        <div class="icon">
+                            <img src="/Images/onepage/item1-3.svg" style="width:36px;" />        </div>
+
+
+                        <h2 class="title">ЧАНАР</h2>
+                        <div style="text-align:center">
+                            <a class="subtitle">
+                                БҮТЭЭЦ, ХИЙЦ
+                            </a>
+                        </div>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+                                <div class="oneitem col-xl-offset-3 col-xl-2 col-lg-offset-3 col-lg-2 col-md-offset-1 col-md-3 col-sm-4 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-4-2-1.png" alt="" width="200" height="199" /></p><p style="text-align: left;"><span style="font-size: medium;">РАДИАТОР</span></p><p style="text-align: justify;">Германы &ldquo;Kermi&rdquo; брэндийн&nbsp;радиатор &ldquo;Oventrop&rdquo;&nbsp;брэндийн тоноглол</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-xl-2 col-lg-2 col-md-3 col-sm-4 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-4-2-2.png" alt="" width="200" height="199" /></p><p style="text-align: left;"><span style="font-size: medium;">БОХИРЫН ХООЛОЙ</span></p><p style="text-align: justify;">Германы&nbsp;&ldquo;Ostendorf kunststoffe&rdquo; брэндийн&nbsp;дуу намасгагчтай бохир усны&nbsp;хоолой</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-xl-2 col-lg-2 col-md-3 col-sm-4 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-4-2-3.png" alt="" width="200" height="199" /></p><p style="text-align: left;"><span style="font-size: medium;">ЦАХИЛГААНЫ УТАС,&nbsp;ТОНОГЛОЛ</span></p><p style="text-align: justify;">ОХУ-ын &ldquo;Sibcable&rdquo; брэндийн&nbsp;цахилгааны утас, германы&nbsp;&ldquo;Siemens&rdquo; брэндийн&nbsp;тоноглол</p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" id="slide1010" data-anchor="slide1010">
+
+                <style>
+                    .grad1010 {
+                        background: ;
+                        background: -webkit-linear-gradient(left,, );
+                        background: -o-linear-gradient(right,, );
+                        background: -moz-linear-gradient(right, , );
+                        background: linear-gradient(to right, , );
+                    }
+                </style>
+                <div class="onepage " style="background:;;" >
+                    <div>
+                        <div class="icon">
+                            <img src="/Images/onepage/item1-3.svg" style="width:36px;" />        </div>
+
+
+                        <h2 class="title">ЧАНАР</h2>
+                        <div style="text-align:center">
+                            <a class="subtitle">
+                                ТОНОГЛОЛ
+                            </a>
+                        </div>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+                                <div class="oneitem col-xl-offset-3 col-xl-2 col-lg-offset-2 col-lg-2 col-md-3 col-sm-4 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-4-3-1.png" alt="" width="199" height="200" /></p><p style="text-align: left;"><span style="font-size: medium;">ЦОНХ</span></p><p style="text-align: justify;">Германы &ldquo;Rehau&rdquo; брэндийн&nbsp;цонхны рам, &ldquo;Lowe&rdquo;&nbsp;технологитой 3-н давхар&nbsp;ганжуулсан шилтэй&nbsp;вакум цонх</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-xl-2 col-lg-2 col-md-3 col-sm-4 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-4-3-2.png" alt="" width="199" height="200" /></p><p style="text-align: left;"><span style="font-size: medium;">ОБОЙ</span></p><p style="text-align: justify;">Японы &ldquo;Lilly&rdquo; брэндийн тааран&nbsp;ханын цаас</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-xl-2 col-lg-2 col-md-3 col-sm-4 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-4-3-3.png" alt="" width="199" height="200" /></p><p style="text-align: left;"><span style="font-size: medium;">ШАЛ</span></p><p style="text-align: justify;">Бельгийн &ldquo;Birkin&rdquo; брэнд</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-xl-2 col-lg-2 col-md-3 col-sm-4 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-4-3-4.png" alt="" width="199" height="200" /></p><p style="text-align: left;"><span style="font-size: medium;">АРИУН ЦЭВРИЙН&nbsp;ТОНОГЛОЛ</span></p><p style="text-align: justify;">Японы &ldquo;Toto&rdquo; брэнд</p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="section " id="section7">
+            <div class="slide" id="slide1012" data-anchor="slide1012">
+
+                <style>
+                    .grad1012 {
+                        background: ;
+                        background: -webkit-linear-gradient(left,, );
+                        background: -o-linear-gradient(right,, );
+                        background: -moz-linear-gradient(right, , );
+                        background: linear-gradient(to right, , );
+                    }
+                </style>
+                <div class="onepage " style="background:;;" >
+                    <div>
+                        <div class="icon">
+                            <img src="/Images/onepage/item1-4.svg" style="width:36px;" />        </div>
+
+
+                        <h2 class="title">ШИЛДЭГ ТӨЛӨВЛӨЛТ</h2>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+                                <div class="oneitem wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                        <div style="text-align: center;"><img style="max-height: 70vh; max-width: 100%;" src="../images/onepage/page5-1.jpg" alt="" /></div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" id="slide1013" data-anchor="slide1013">
+
+                <style>
+                    .grad1013 {
+                        background: ;
+                        background: -webkit-linear-gradient(left,, );
+                        background: -o-linear-gradient(right,, );
+                        background: -moz-linear-gradient(right, , );
+                        background: linear-gradient(to right, , );
+                    }
+                </style>
+                <div class="onepage " style="background:;;" >
+                    <div>
+                        <div class="icon">
+                            <img src="/Images/onepage/item1-4.svg" style="width:36px;" />        </div>
+
+
+                        <h2 class="title">ШИЛДЭГ ТӨЛӨВЛӨЛТ</h2>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+                                <div class="oneitem col-sm-6 col-lg-3 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-5-2-1.svg" alt="" height="80" /></p><p style="text-align: center;"><strong>Цэгэн төлөвлөлт</strong></p><p style="text-align: justify;">Хүн өдөрт 3 цагаас багагүй хугацаанд байгалийн&nbsp;нар үзэх ёстой стандартыг хамгийн сайн хангах&nbsp;төлөвлөлт бол цэгэн төлөвлөлт юм. орооллын&nbsp;орон сууцны цонх бүр хамгийн багадаа 3 цагийн&nbsp;байгалийг нарыг үзэж байгаа нь барилга&nbsp;хоорондын зай, цэгэн төлөвлөлтийн шийдэл юм.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-lg-3 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-5-2-2.svg" alt="" height="80" /></p><p style="text-align: center;"><strong>Хүн төвтэй</strong></p><p style="text-align: justify;">Хүнийг өдөр тутамдаа хийх үйлдэл, түүнд&nbsp;шаардлагатай орон зай, зохион байгуулалтыг&nbsp;гарган төлөвлөж түүнийгээ орон сууцны дотор&nbsp;зохион байгуулалт, давхрын хуваалт болгон&nbsp;гаргаад байр, барилга болгон зураг төсөл хийх&nbsp;орчин үеийн чиг хандлага юм. Энэ нь дотор&nbsp;зохион байгуулалтаас гадна хорооллын&nbsp;ерөнхий төлөвлөлтөнд ч гэсэн хадгалагддаг&nbsp;байна.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-lg-3 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-5-2-3.svg" alt="" height="80" /></p><p style="text-align: center;"><strong>Орон зай</strong></p><p style="text-align: justify;">Хүний хувийн болон нийтийн орон зайг салган,&nbsp;зөв зохион байгуулж хүн ашиглах талбай нэг&nbsp;бүрийн үүрэг функцийг ялгах боломжтой&nbsp;ухаалаг шийдэлтэй орчин үеийн чиг хандлагыг&nbsp;зураг төсөлдөө оруулж өгсөн нь тав тухтай байх&nbsp;үндэс болдог байна.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-lg-3 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-5-2-4.svg" alt="" height="80" /></p><p style="text-align: center;"><strong>Худалдаа &amp; Үйлчилгээ</strong></p><p style="text-align: justify;">Хүний хэрэгцээг хангах нийтийн болон&nbsp;нийгмийн үйлчилгээ, худалдааны төвүүдийг&nbsp;хороололд цогцоор нь шийдэж өгсөн. Худалдаа&nbsp;үйлчилгээний бизнесийн байгууллагуудыг мөн&nbsp;ашиг орлоготой байх, зах зээлээ тэлэх,&nbsp;бизнесийг нь хамгаалах, хүний урсгалыг&nbsp;чиглүүлэх төлөвлөлт хийж өгснөөрөө&nbsp;онцлогтой юм.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-lg-3 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-5-2-5.svg" alt="" height="80" /></p><p style="text-align: center;"><strong>Автомашингүй орчин</strong></p><p style="text-align: justify;">Хүн машин нь холилдон амьдарч буй одоогийн&nbsp;хандлагыг өөрчилж хөдөлгөөнийг тусгаарлаж&nbsp;өгснөөрөө эрүүл аюулгүй амьдрах ээлтэй&nbsp;орчинг бүрдүүлж өгсөн төлөвлөлтийн&nbsp;шийдэлтэй юм. Яаралтай түргэн тусламжийн&nbsp;үед ашиглах эмнэлгийн түргэн тусламж, гал&nbsp;командын машины аацыг тооцоолон хийсэн&nbsp;замыг хороололд хийж өгсөн давуу талтай.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-lg-3 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-5-2-6.svg" alt="" height="80" /></p><p style="text-align: center;"><strong>Дулаан зогсоол</strong></p><p style="text-align: justify;">Газар доорх 1100 автомашины дулаан зогсоол,&nbsp;орц гарц, урсгалууд нийт хэрэгцээг бүрэн хангах&nbsp;юм. Мөн байгалийн давагдашгүй нөхцөл &nbsp;үсэхэд&nbsp;аюул тусгаарлах хаалтууд, оршин суугчдын амь&nbsp;насыг хамгаалах зориулалтын хоргодох байр&nbsp;болгон ашиглахаар хийгдсэн.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-lg-3 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-5-2-7.svg" alt="" height="80" /></p><p style="text-align: center;"><strong>Талбай ашиглалт</strong></p><p style="text-align: justify;">Үргүй зардал, цаг хөрөнгө үрэх ашиглалтгүй&nbsp;талбайгүй хийж орчин үеийн хүний амьдралын&nbsp;хэв маягт тохирсон хөрөнгөнд биш амьдралдаа&nbsp;цаг зарцуулах чиг хандлагыг оруулж шийдэл&nbsp;гаргаснаараа төлөвлөлтийн давуу тал оршино.</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-sm-6 col-lg-3 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:330px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-5-2-8.svg" alt="" height="80" /></p><p style="text-align: center;"><strong>Амьдралын хэмнэл</strong></p><p style="text-align: justify;">Орчин үеийн гэр бүлүүдийн амьдралын хэмнэл,&nbsp;түүнд тулгардаг бэрхшээл, асуудлыг шийдэх&nbsp;зориулалттай функц бүхий талбайн ашиглалт,&nbsp;цогц төлөвлөлт байгаагаас гадна тухай бүрийг&nbsp;бүрэн мэдрүүлэх нэмэлт нийтийн үйлчилгээг&nbsp;хамт авч болох боломж байгаа нь ОУ жишиг&nbsp;хороолол болгож байна</p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="section " id="section8">
+
+            <style>
+                .grad1014 {
+                    background: #7DC341;
+                    background: -webkit-linear-gradient(left,#7DC341, #3AB54A);
+                    background: -o-linear-gradient(right,#7DC341, #3AB54A);
+                    background: -moz-linear-gradient(right, #7DC341, #3AB54A);
+                    background: linear-gradient(to right, #7DC341, #3AB54A);
+                }
+            </style>
+            <div class="onepage grad1014" style=";;" >
+                <div>
+                    <div class="icon">
+                        <img src="/Images/onepage/item1-5.svg" style="width:36px;" />        </div>
+
+
+                    <h2 class="title">ШИЛДЭГ ҮЙЛЧИЛГЭЭ</h2>
+
+                    <div class="items container">
+                        <div class="row">
+
+
+                            <div class="oneitem col-xl-offset-3 col-xl-3 col-lg-offset-2 col-lg-3 col-md-4 col-sm-4 col-xs-12 wow animated bounceInRight" data-anim="bounceInRight"  data-wow-delay=0.2s>
+                                <div style="background:white;padding:20px;Height:290px;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-6-1.svg" alt="" height="60" /></p><p style="text-align: center;"><strong>ХУДАЛДАА ҮЙЛЧИЛГЭЭНИЙ ТӨВ</strong></p><p style="text-align: justify; font-size: 11px;"><span>Худалдаа үйлчилгээний төв гудамжинд&nbsp;Улаанбаатар хотын шилдэг бүхэн нэг дор&nbsp;төвлөрөхөөс гадна оршин суугчдын нийтийн&nbsp;үйлчилгээний төв байхаараа онцлог юм.</span></p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-xl-3 col-lg-3 col-md-4 col-sm-4 col-xs-12 wow animated bounceInRight" data-anim="bounceInRight"  data-wow-delay=0.4s>
+                                <div style="background:white;padding:20px;Height:290px;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-6-2.svg" alt="" height="60" /></p><p style="text-align: center;"><strong>CУРГУУЛЬ</strong></p><p style="text-align: justify; font-size: 11px;">Ерөнхий боловсролын хүүхэд төвтэй 2000&nbsp;хүүхдийн сургууль байгуулагдах бөгөөд анхны&nbsp;ботаник, өвлийн садтай төлөвлөгдснөөрөө&nbsp;онцлогтой. Монгол хүн байхуйн ахуй,&nbsp;уламжлал, заншил дээр суурьлан хүүхдийг хүн&nbsp;болгон сурган хүмүүжүүлэхээс гадна шинжлэх&nbsp;ухаан, хэлний мэдлэг, эрүүл мэндийг цогц&nbsp;сонгомол сургалт явуулах төрөлжсөн&nbsp;системүүдийг санал болгох юм.</p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-xl-3 col-lg-3 col-md-4 col-sm-4 col-xs-12 wow animated bounceInRight" data-anim="bounceInRight"  data-wow-delay=0.6s>
+                                <div style="background:white;padding:20px;Height:290px;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-6-3.svg" alt="" height="60" /></p><p style="text-align: center;"><strong>ЦЭЦЭРЛЭГ</strong></p><p style="text-align: justify; font-size: 11px;">Сургуулийн өмнөх боловсролыг олгох 400&nbsp;хүүхдийн цэцэрлэг нь эрүүл мэнд, оюун&nbsp;ухааны хөгжил, хүн болон төлөвшихүйд&nbsp;төвлөрөх сургалтын системтэй байна. Органик&nbsp;хүнсний хэрэглээ, эко орчин, хүүхэд төвтэй&nbsp;сургалт зэрэг нь цэцэрлэгийн онцлог юм.</p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-xl-offset-3 col-xl-3 col-lg-offset-2 col-lg-3 col-md-4 col-sm-4 col-xs-12 wow animated bounceInLeft" data-anim="bounceInLeft"  data-wow-delay=0.2s>
+                                <div style="background:white;padding:20px;Height:290px;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-6-4.svg" alt="" height="60" /></p><p style="text-align: center;"><strong>ЭМНЭЛЭГ</strong></p><p style="text-align: justify; font-size: 11px;">ОУ-ын эмчилгээ оношлогооны төв, түүнд&nbsp;хамаарах асран сувилахуйн төв нь оршин&nbsp;суугчдын төдийгүй нийт иргэдийн эрүүл&nbsp;мэндийн урьдчилан сэргийлэх, эмчлүүлэн&nbsp;эрүүлжих газар болох юм.</p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-xl-3 col-lg-3 col-md-4 col-sm-4 col-xs-12 wow animated bounceInLeft" data-anim="bounceInLeft"  data-wow-delay=0.4s>
+                                <div style="background:white;padding:20px;Height:290px;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-6-5.svg" alt="" height="40" /></p><p style="text-align: center;"><strong>ЧИЙРЭГЖҮҮЛЭХ ТӨВ</strong></p><p style="text-align: justify; font-size: 11px;">Гадна төлөвлөгдсөн хөлбөмбөг, сагсан&nbsp;бөмбөг, хоккейн болон газрын теннисний&nbsp;талбайнаас гадна бялдаржуулах&nbsp;урлаг,фитнесс болон түүний төрлүүдээр&nbsp;хичээлэх боломжтой төвийг шийдэж өгсөн.&nbsp;Үүнээс гадна иог, бүжиг, эрүүл хоололтын&nbsp;болон эрүүл амьдрахуйн сургалтуудыг оршин&nbsp;суугчдадаа санал болгож байна.</p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-xl-3 col-lg-3 col-md-4 col-sm-4 col-xs-12 wow animated bounceInLeft" data-anim="bounceInLeft"  data-wow-delay=0.6s>
+                                <div style="background:white;padding:20px;Height:290px;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-6-6.svg" alt="" height="60" /></p><p style="text-align: center;"><strong>COWORKING SPACE</strong></p><p style="text-align: justify; font-size: 11px;">Оршин суугчдын үйлчилгээний төвд байх олон&nbsp;төрлийн үйлчилгээнээс онцлон танилцуулахад&nbsp;бүхий л төрлийн оффисийн тоног төхөөрөмж<br />үйлчилгээ бүхий орчин юм. Гэрээсээ ажил&nbsp;хэргээ хөтлөн явуулах орчин үеийн чиг&nbsp;хандлагыг амьдрах хэмнэлээ болгож буй&nbsp;оршин суугчиддаа зориулан, ажиллах орчинг&nbsp;мөн санал болгож байна.</p>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section " id="section9">
+            <div class="slide" id="slide1016" data-anchor="slide1016">
+
+                <style>
+                    .grad1016 {
+                        background: ;
+                        background: -webkit-linear-gradient(left,, );
+                        background: -o-linear-gradient(right,, );
+                        background: -moz-linear-gradient(right, , );
+                        background: linear-gradient(to right, , );
+                    }
+                </style>
+                <div class="onepage " style="background:;;" >
+                    <div>
+                        <div class="icon">
+                            <img src="/Images/onepage/item1-6.svg" style="width:36px;" />        </div>
+
+
+                        <h2 class="title">АРХИТЕКТУР, ИНТЕРЬЕР</h2>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.1s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-1.svg" alt="" height="80" /></p><p style="text-align: center;">Төслийн нийт талбайн&nbsp;40% ногоон байгууламж</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-2.svg" alt="" height="80" /></p><p style="text-align: center;">Төслийн нийт талбайн&nbsp;31% зам талбай</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.3s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-3.svg" alt="" height="80" /></p><p style="text-align: center;">Төслийн нийт талбайн&nbsp;29% барилга, байгууламж</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.4s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-4.svg" alt="" height="80" /></p><p style="text-align: center;">Айл бүр нар үзэхээр&nbsp;төлөвлөсөн</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.5s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-5.svg" alt="" height="80" /></p><p style="text-align: center;">Амьсгалдаг&nbsp;фасад</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.6s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-6.svg" alt="" height="80" /></p><p style="text-align: center;">Ашиглалттай дээвэр&nbsp;Function Space</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.7s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-7.svg" alt="" width="83" height="80" /></p><p style="text-align: center;">Дулаан хадгалалтаар N.1&nbsp;өлгөх технологитой&nbsp;алуминиум хавтан</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.8s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-11.svg" alt="" height="80" /></p><p style="text-align: center;">Газар хөдлөлтийн&nbsp;8-н баллд тэсвэртэй</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.9s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-10.svg" alt="" height="80" /></p><p style="text-align: center;"><span>Тусдаа&nbsp;угаалгын өрөө</span></p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=1s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-9.svg" alt="" height="80" /></p><p style="text-align: center;">Тусдаа&nbsp;гал тогооны өрөө</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=1.2s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-8.svg" alt="" height="80" /></p><p style="text-align: center;">Тагтны болон гэр доторх&nbsp;агуулах өрөө</p>
+                                    </div>
+                                </div>
+                                <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=1.3s>
+                                    <div style="background:;padding:20px;Height:180px;margin-top:10px;border:1px solid silver;">
+                                        <p style="text-align: center;"><img src="../images/onepage/page-7-1-12.svg" alt="" width="143" height="80" /></p><p style="text-align: center;">Хувцас cолих өрөө&nbsp;Walk in closet</p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" id="slide1017" data-anchor="slide1017">
+
+                <style>
+                    .grad1017 {
+                        background: #F1F2F2;
+                        background: -webkit-linear-gradient(left,#F1F2F2, );
+                        background: -o-linear-gradient(right,#F1F2F2, );
+                        background: -moz-linear-gradient(right, #F1F2F2, );
+                        background: linear-gradient(to right, #F1F2F2, );
+                    }
+                </style>
+                <div class="onepage " style="background:#F1F2F2;;" >
+                    <div>
+                        <div class="icon">
+                        </div>
+
+
+                        <h2 class="title">АРХИТЕКТУР, ИНТЕРЬЕР</h2>
+
+                        <div class="items container">
+                            <div class="row">
+
+
+
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/01.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/01.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/02.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/02.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/03.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/03.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/04.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/04.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/05.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/05.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/06.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/06.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/07.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/07.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/08.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/08.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/09.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/09.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/111_1.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/111_1.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/112_1.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/112_1.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/113_1.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/113_1.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/13.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/13.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/13389241_1015264198528558_1859320168_o.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/13389241_1015264198528558_1859320168_o.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/13396588_1015264291861882_1145219429_o.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/13396588_1015264291861882_1145219429_o.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/13410375_1015264195195225_1533328970_o.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/13410375_1015264195195225_1533328970_o.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/15.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/15.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_01.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_01.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_02.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_02.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_03.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_03.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_04.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_04.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_05.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_05.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_06.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_06.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_07.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_07.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_08.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_08.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_09.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_09.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_10.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_10.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_11.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_11.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_12.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_12.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_13.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_13.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_14.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_14.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_15.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_15.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_17.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_17.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_18.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_18.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/APARTMENT_Page_19.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/APARTMENT_Page_19.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren02.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren02.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren03.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren03.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren04.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren04.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren05.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren05.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren06.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren06.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren07.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren07.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren08.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren08.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren09.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren09.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren10.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren10.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren11.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren11.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren12.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren12.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren13.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren13.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren14.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren14.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/ren15.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/ren15.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER1.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER1.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER10.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER10.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER11.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER11.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER2.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER2.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER3.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER3.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER4.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER4.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER5.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER5.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER6.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER6.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER7.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER7.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER8.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER8.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-1" style="margin-top:10px;">
+                                    <a href="/Files/interior/RENDER9.jpg" data-lightbox="image-1" data-title="АРХИТЕКТУР, ИНТЕРЬЕР">
+
+                                        <div style="background:url(/Files/interior/thumb/RENDER9.jpg) no-repeat center center;" class="gallery-item">
+
+                                        </div>
+                                        <div class="zoom-overlay"></div>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="section " id="section10">
+
+            <style>
+                .grad1018 {
+                    background: ;
+                    background: -webkit-linear-gradient(left,, );
+                    background: -o-linear-gradient(right,, );
+                    background: -moz-linear-gradient(right, , );
+                    background: linear-gradient(to right, , );
+                }
+            </style>
+            <div class="onepage " style="background:;;" >
+                <div>
+                    <div class="icon">
+                        <img src="/Images/onepage/item1-7.svg" style="width:36px;" />        </div>
+
+
+                    <h2 class="title">ОРЧИН, ХӨРШ</h2>
+
+                    <div class="items container">
+                        <div class="row">
+
+
+                            <div class="oneitem col-xs-12 col-sm-12 greenpropertylogo wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <div style="text-align: center;"><img style="max-height: 40vh; max-width: 100%;" src="../images/onepage/greenproperty.svg" alt="" /></div>
+                                </div>
+                            </div>
+                            <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceInUp" data-anim="bounceInUp"  data-wow-delay=0.1s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-8-1.svg" alt="" width="148" height="76" /></p><p style="text-align: center;">ХУДАЛДАН АВАЛТЫН&nbsp;ДАРААХ ҮЙЛЧИЛГЭЭ</p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceInUp" data-anim="bounceInUp"  data-wow-delay=0.2s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-8-2.svg" alt="" width="148" height="76" /></p><p style="text-align: center;">ДАСАН ЗОХИЦОХ&nbsp;ҮЙЛЧИЛГЭЭ</p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceInUp" data-anim="bounceInUp"  data-wow-delay=0.3s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-8-3.svg" alt="" width="148" height="76" /></p><p style="text-align: center;">ТАВ ТУХ БҮРДҮҮЛЭХ&nbsp;ҮЙЛЧИЛГЭЭ</p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceInUp" data-anim="bounceInUp"  data-wow-delay=0.4s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-8-4.svg" alt="" width="148" height="76" /></p><p style="text-align: center;">ДУУДЛАГЫН&nbsp;ҮЙЛЧИЛГЭЭ</p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceInUp" data-anim="bounceInUp"  data-wow-delay=0.5s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-8-5.svg" alt="" width="148" height="76" /></p><p style="text-align: center;">ХУВИЙН ТУСЛАХЫН&nbsp;ҮЙЛЧИЛГЭЭ</p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceInUp" data-anim="bounceInUp"  data-wow-delay=0.6s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-8-6.svg" alt="EMERGENCY ҮЙЛЧИЛГЭЭ" width="148" height="76" /></p><p style="text-align: center;">EMERGENCY&nbsp;ҮЙЛЧИЛГЭЭ</p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-lg-2 col-sm-6 col-xs-12 wow animated bounceInUp" data-anim="bounceInUp"  data-wow-delay=0.7s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <p style="text-align: center;"><img src="../images/onepage/page-8-7.svg" alt="" width="148" height="76" /></p><p style="text-align: center;">ҮЛ ХӨДЛӨХ ХӨРӨНГИЙН&nbsp;ҮЙЛЧИЛГЭЭ</p>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section " id="section11">
+
+            <style>
+                .grad1019 {
+                    background: ;
+                    background: -webkit-linear-gradient(left,, );
+                    background: -o-linear-gradient(right,, );
+                    background: -moz-linear-gradient(right, , );
+                    background: linear-gradient(to right, , );
+                }
+            </style>
+            <div class="onepage " style="background:;;" >
+                <div>
+                    <div class="icon">
+                    </div>
+
+
+                    <h2 class="title">Холбоо барих</h2>
+
+                    <div class="items container">
+                        <div class="row">
+
+
+                            <div class="oneitem col-xs-12 col-sm-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <p><img style="display: block; margin-left: auto; margin-right: auto;" src="../images/onepage/newyarmag-logo.svg" alt="" width="115" height="150" /></p>
+                                </div>
+                            </div>
+                            <div class="oneitem col-xl-offset-3 col-xl-4 col-lg-offset-2 col-lg-4 col-md-6 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.2s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <table style="width: 100%;" border="0" cellpadding="5"><tbody><tr><td style="width: 50px;" rowspan="2" valign="top"><img src="../images/onepage/icon-address.png" alt="" height="40" /></td><td><span style="font-size: small;">ТӨСЛИЙН БАЙРШИЛ</span></td></tr><tr><td>Улаанбаатар хот, Хан-Уул дүүрэг, 8-р хороо, "Шинэ Яармаг" Орон сууцны цогцолбор хороолол</td></tr></tbody></table>
+                                </div>
+                            </div>
+                            <div class="oneitem col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.4s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <table style="width: 100%;" border="0" cellpadding="5"><tbody><tr><td style="width: 50px;" rowspan="2" valign="top"><img src="../images/onepage/icon-office.png" alt="" height="40" /></td><td><span style="font-size: small;">ОФФИС</span></td></tr><tr><td>Улаанбаатар 17101, ХУД, 8-р хороо, Өлзийтийн зам гудамж, Шинэ Яармаг хороолол, 732</td></tr></tbody></table>
+                                </div>
+                            </div>
+                            <div class="oneitem col-xl-offset-3 col-xl-4 col-lg-offset-2 col-lg-4 col-md-6 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.6s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <table style="width: 100%;" border="0" cellpadding="5"><tbody><tr><td style="width: 50px;" rowspan="2" valign="top"><img src="../images/onepage/icon-mobile.png" alt="" height="40" /></td><td><span style="font-size: small;">БОРЛУУЛАЛТЫН АЛБА</span></td></tr><tr><td><strong><span style="font-size: medium;">8008-6600, 8008-9900</span></strong></td></tr></tbody></table>
+                                </div>
+                            </div>
+                            <div class="oneitem col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 wow animated bounceIn" data-anim="bounceIn"  data-wow-delay=0.8s>
+                                <div style="background:;padding:20px;Height:;margin-top:10px;">
+                                    <table border="0"><tbody><tr><td><a href="https://www.facebook.com/Shineyarmagtsogtsolbor" target="_blank"><img class="null" src="../images/onepage/icon-facebook.png" alt="" height="40" /></a></td><td style="width: 100px; text-align: center;"><img src="../images/onepage/icon-instagram.png" alt="" height="40" /></td></tr></tbody></table>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    <div class="bookmark wow animated bounceInDown" data-wow-delay="1.4s"></div>
+    <div class="lanSwitch">
+        Language &nbsp; <a class="" href="/data/Lang?id=3">En</a>&nbsp;<a class="selected" href="/data/lang?id=2">Mn</a>
+    </div>
+    <div class="up"></div>
+    <div class="down wow animated bounce" data-wow-delay="1.6s"></div>
+    <div id = "mobiledetect" class="hidden-xs hidden-sm" style="width:1px;position:absolute;"></div>
+</div>
+
+<script type = "text/javascript" >
+    var sectioncount=11;
+    var SectionsWithSlide = [4,6,7,9];
+    var SectionsWithSlideCount = [2,5,2,2]
+    var SlideCount = { };
+    var gAnchors =['home', 'p2', 'section1000Link', 'section1001Link', 'section1004Link', 'section1005Link', 'section1011Link', 'section1014Link', 'section1015Link', 'section1018Link', 'section1019Link'];
+
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+
+<script src="/Scripts/OnePage?v=1"></script>
+<script>
+    $(window).load(function () {
+        $('.preloader').fadeOut(1200);
+    });
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-6790599-50', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+
+
+</body>
+
+</html>
