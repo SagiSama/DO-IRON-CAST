@@ -122,3 +122,8 @@ body {
     width: 100%;
     padding: 20px;
 }
+
+.dot_preview {
+    text-align:center;
+    padding: 10px
+}
