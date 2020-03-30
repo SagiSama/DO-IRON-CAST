@@ -1,4 +1,4 @@
-<div class="news">
+<div class="one-item">
   <div class="slideshow-container">
     <% index = 0 %>
     <% @products.each do |p| %>
@@ -23,14 +23,14 @@
   </div>
 </div>
 
-<div class="product_container">
-  <h2 style="text-align:center">Products</h2>
+<div class="one-item">
+  <h2 style="text-align:center; padding-top: 30px">Бүтээгдэхүүн</h2>
   <div class="product">
     <% index = 0 %>
     <% @products.each do |p| %>
       <div class="card">
         <%= image_tag 'img_lights_wide.jpg', :class => "product_icon" %>
-        <h1><%= p.name %></h1>
+        <h1 class="title"><%= p.name %></h1>
         <p class="note"><%= p.note %></p>
       </div>
     <% end %>
