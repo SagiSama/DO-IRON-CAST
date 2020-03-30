@@ -176,3 +176,24 @@ body {
     text-align: right;
     width: 100%;
 }
+
+.news {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    background-color: #730E15;
+}
+.sidenav {
+    height: 100%;
+    width: 160px;
+    /*position: fixed;*/
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}

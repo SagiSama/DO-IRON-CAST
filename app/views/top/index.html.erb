@@ -37,7 +37,12 @@
   </div>
 </div>
 
+<div id='get_product'>
+  <%= render 'get_product' %>
+</div>
+
 <%= javascript_pack_tag 'top/index' %>
+
 <script>
     window.setInterval(function(){
         plusSlides(1);
@@ -71,3 +76,4 @@
         dots[slideIndex-1].className += " active";
     }
 </script>
+
