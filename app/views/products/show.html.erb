@@ -1,8 +1,20 @@
-<h1> Product page SHOW !<h1>
-
-<%= @product.name %>
-<%= @product.note %>
-<%= @product.price %>
-<%= @product.status %>
-
-<%= link_to 'Back', products_path %>
+<div class="ibox ">
+  <div class="ibox-title">
+    <h5>Product Show <small>review product.</small></h5>
+  </div>
+  <div class="ibox-content">
+    <div class="form-group  row">
+      <div class="col-sm-2 col-form-label">Name</div>
+      <div class="col-sm-10 form-control"><%= @product.name %></div>
+      <div class="col-sm-2 col-form-label">Note</div>
+      <div class="col-sm-10 form-control"><%= @product.note %></div>
+      <div class="col-sm-2 col-form-label">Price</div>
+      <div class="col-sm-10 form-control"><%= @product.price %></div>
+      <div class="col-sm-2 col-form-label">Status</div>
+      <div class="col-sm-10 form-control"><%= @product.status %></div>
+      <div class="col-sm-10">
+        <%= link_to 'Back', products_path, class: "btn btn-white btn-sm" %>
+      </div>
+    </div>
+  </div>
+</div>
