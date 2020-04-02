@@ -10,12 +10,33 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_03_26_113605) do
+ActiveRecord::Schema.define(version: 2020_04_02_091754) do
 
   create_table "accounts", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4", force: :cascade do |t|
     t.string "name", limit: 256, null: false
     t.string "email", limit: 256, null: false
     t.string "encrypted_password", limit: 256, default: "", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "news", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4", force: :cascade do |t|
+    t.string "title", limit: 256, null: false
+    t.text "subject"
+    t.string "image_for_zoom", limit: 256
+    t.string "image_for_form", limit: 256
+    t.integer "status", limit: 1, default: 0, null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "performances", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4", force: :cascade do |t|
+    t.string "title", limit: 256, null: false
+    t.text "subject"
+    t.string "period", limit: 256, null: false
+    t.string "image_for_zoom", limit: 256
+    t.string "image_for_form", limit: 256
+    t.integer "status", limit: 1, default: 0, null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

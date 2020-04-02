@@ -5,5 +5,6 @@ Rails.application.routes.draw do
   root to: 'top#index', as: 'top'
 
   resources :products
-  post 'top/get_product/:id', to: 'top#get_product', as: 'get_product'
+  resources :news
+  resources :performances
 end

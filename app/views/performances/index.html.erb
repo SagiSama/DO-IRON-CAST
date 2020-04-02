@@ -4,11 +4,11 @@
       <div class="col-lg-12">
         <div class="ibox">
           <div class="ibox-title">
-            <h5>Product List <small>all products.</small></h5>
+            <h5>Performances List <small>all performances.</small></h5>
           </div>
           <div class="ibox-content">
             <div class="row">
-              <%= link_to 'New', new_product_path, class: "btn btn-success btn-facebook btn-outline"%>
+              <%= link_to 'New', new_performance_path, class: "btn btn-success btn-facebook btn-outline"%>
               <div class="col-sm-3">
                 <div class="input-group">
                   <input placeholder="Search" type="text" class="form-control form-control-sm">
@@ -22,29 +22,28 @@
               <table class="table table-striped">
                 <thead>
                 <tr>
-                  <th>Name</th>
-                  <th>Note</th>
+                  <th>Title</th>
+                  <th>Subject</th>
                   <th>Status</th>
-                  <th>Price</th>
                   <th>Action</th>
                 </tr>
                 </thead>
                 <tbody>
-                <% @products.each do |product| %>
+                <% @performances.each do |performance| %>
                   <tr class="footable-even">
-                    <td><div class="icheckbox_square-green checked" style="position: relative;"><%= product.name %></div></td>
-                    <td><small><%= product.note %></small></td>
+                    <td><div class="icheckbox_square-green checked" style="position: relative;"><%= performance.title %></div></td>
+                    <td><small><%= performance.subject %></small></td>
                     <td class="footable-visible">
-                      <% if product.active? %>
-                        <span class="label label-primary"><%= product.status %></span>
+                      <% if performance.active? %>
+                        <span class="label label-primary"><%= performance.status %></span>
                       <% else %>
-                        <span class="label label-danger"><%= product.status %></span>
+                        <span class="label label-danger"><%= performance.status %></span>
                       <% end %>
                     </td>
-                    <td><%= product.price %></td>
-                    <td><%= link_to 'Show', product_path(product), class: "btn btn-info btn-sm btn-outline" %>
-                        <%= link_to 'Edit', edit_product_path(product), class: "btn btn-warning btn-sm btn-outline" %>
-                        <%= link_to 'Delete', product, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-sm btn-danger btn-outline" %></td>
+                    <td><small><%= performance.period %></small></td>
+                    <td><%= link_to 'Show', performance_path(performance), class: "btn btn-info btn-sm btn-outline" %>
+                        <%= link_to 'Edit', edit_performance_path(performance), class: "btn btn-warning btn-sm btn-outline" %>
+                        <%= link_to 'Delete', performance, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-sm btn-danger btn-outline" %></td>
                   </tr>
                 <% end %>
                 </tbody>

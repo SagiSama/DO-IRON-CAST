@@ -1,0 +1,25 @@
+<div class="ibox-content">
+  <%= form_for @news, html: {class: "form-group  row"} do |f| %>
+    <%= f.label :title, class: "col-sm-2 col-form-label" %>
+    <div class="col-sm-10">
+      <%= f.text_field :title, class: "form-control" %>
+    </div>
+    <%= f.label :status, class: "col-sm-2 col-form-label" %>
+    <div class="col-sm-10">
+      <div class="form-control">
+        <small class="text-navy">Active</small>
+        <%= f.radio_button :status, :active, checked: true %>
+        <small class="text-navy">Inactive</small>
+        <%= f.radio_button :status, :inactive %>
+      </div>
+    </div>
+    <%= f.label :subject, class: "col-sm-2 col-form-label" %>
+    <div class="col-sm-10">
+      <%= f.text_area :subject, class: "form-control" %>
+    </div>
+    <div class="col-sm-10">
+      <%= link_to 'Back', news_index_path, class: "btn btn-white btn-sm" %>
+      <button class="btn btn-primary btn-sm" type="submit">Save changes</button>
+    </div>
+  <% end %>
+</div>
