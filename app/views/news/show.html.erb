@@ -1,23 +1,19 @@
-<div class="wrapper gray-bg" style="min-height: 100%; min-width: 100%;">
-  <div class="wrapper wrapper-content">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="ibox">
-          <div class="ibox-title">
-            <h5>News Show <small>review news.</small></h5>
-          </div>
-          <div class="ibox-content">
-            <div class="form-group  row">
-              <div class="col-sm-2 col-form-label">Title</div>
-              <div class="col-sm-10 form-control"><%= @news.title %></div>
-              <div class="col-sm-2 col-form-label">Status</div>
-              <div class="col-sm-10 form-control"><%= @news.status %></div>
-              <div class="col-sm-2 col-form-label">Subject</div>
-              <div class="col-sm-10 form-control"><%= @news.subject %></div>
-              <div class="col-sm-10">
-                <%= link_to 'Back', news_index_path, class: "btn btn-white btn-sm" %>
-              </div>
-            </div>
+<div class="row">
+  <div class="col-lg-12">
+    <div class="ibox">
+      <div class="ibox-title">
+        <h5>News Show <small>review news.</small></h5>
+      </div>
+      <div class="ibox-content">
+        <div class="form-group  row">
+          <div class="col-sm-2 col-form-label">Title</div>
+          <div class="col-sm-10 form-control"><%= @news.title %></div>
+          <div class="col-sm-2 col-form-label">Status</div>
+          <div class="col-sm-10 form-control"><%= @news.status %></div>
+          <div class="col-sm-2 col-form-label">Subject</div>
+          <div class="col-sm-10 form-control"><%= @news.subject %></div>
+          <div class="col-sm-10">
+            <%= link_to 'Back', news_index_path, class: "btn btn-white btn-sm" %>
           </div>
         </div>
       </div>

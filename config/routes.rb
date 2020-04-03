@@ -4,7 +4,10 @@ Rails.application.routes.draw do
 
   root to: 'top#index', as: 'top'
 
-  resources :products
-  resources :news
-  resources :performances
+  scope :admin do
+    root to: 'products#index', as: 'dashboard'
+    resources :products
+    resources :news
+    resources :performances
+  end
 end

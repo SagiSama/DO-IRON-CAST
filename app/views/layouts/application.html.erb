@@ -10,9 +10,18 @@
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
-  <body>
-    <%= render "layouts/header" %>
-    <%= yield %>
-    <%= render "layouts/footer" %>
+  <%= render "layouts/header" %>
+
+  <body class="pace-done">
+    <div id="wrapper">
+      <nav class="navbar-default navbar-static-side" role="navigation">
+        <%= render "layouts/navigation_bar" %>
+      </nav>
+      <div id="page-wrapper" class="gray-bg" style="min-height: 980px;">
+        <%= yield %>
+      </div>
+    </div>
   </body>
+
+  <%= render "layouts/footer" %>
 </html>

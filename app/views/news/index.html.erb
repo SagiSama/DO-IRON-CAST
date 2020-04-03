@@ -1,54 +1,50 @@
-<div class="wrapper gray-bg">
-  <div class="wrapper wrapper-content">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="ibox">
-          <div class="ibox-title">
-            <h5>News List <small>all news.</small></h5>
-          </div>
-          <div class="ibox-content">
-            <div class="row">
-              <%= link_to 'New', new_news_path, class: "btn btn-success btn-facebook btn-outline"%>
-              <div class="col-sm-3">
-                <div class="input-group">
-                  <input placeholder="Search" type="text" class="form-control form-control-sm">
-                  <span class="input-group-append">
-              <button type="button" class="btn btn-sm btn-primary">Go!</button>
-            </span>
-                </div>
-              </div>
-            </div>
-            <div class="table-responsive">
-              <table class="table table-striped">
-                <thead>
-                <tr>
-                  <th>Title</th>
-                  <th>Status</th>
-                  <th>Subject</th>
-                  <th>Action</th>
-                </tr>
-                </thead>
-                <tbody>
-                <% @newses.each do |news| %>
-                  <tr class="footable-even">
-                    <td><div class="icheckbox_square-green checked" style="position: relative;"><%= news.title %></div></td>
-                    <td class="footable-visible">
-                      <% if news.active? %>
-                        <span class="label label-primary"><%= news.status %></span>
-                      <% else %>
-                        <span class="label label-danger"><%= news.status %></span>
-                      <% end %>
-                    </td>
-                    <td><small><%= news.subject %></small></td>
-                    <td><%= link_to 'Show', news_path(news), class: "btn btn-info btn-sm btn-outline" %>
-                        <%= link_to 'Edit', edit_news_path(news), class: "btn btn-warning btn-sm btn-outline" %>
-                        <%= link_to 'Delete', news, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-sm btn-danger btn-outline" %></td>
-                  </tr>
-                <% end %>
-                </tbody>
-              </table>
+<div class="row">
+  <div class="col-lg-12">
+    <div class="ibox">
+      <div class="ibox-title">
+        <h5>News List <small>all news.</small></h5>
+      </div>
+      <div class="ibox-content">
+        <div class="row">
+          <%= link_to 'New', new_news_path, class: "btn btn-success btn-facebook btn-outline"%>
+          <div class="col-sm-3">
+            <div class="input-group">
+              <input placeholder="Search" type="text" class="form-control form-control-sm">
+              <span class="input-group-append">
+          <button type="button" class="btn btn-sm btn-primary">Go!</button>
+        </span>
             </div>
           </div>
+        </div>
+        <div class="table-responsive">
+          <table class="table table-striped">
+            <thead>
+            <tr>
+              <th>Title</th>
+              <th>Status</th>
+              <th>Subject</th>
+              <th>Action</th>
+            </tr>
+            </thead>
+            <tbody>
+            <% @newses.each do |news| %>
+              <tr class="footable-even">
+                <td><div class="icheckbox_square-green checked" style="position: relative;"><%= news.title %></div></td>
+                <td class="footable-visible">
+                  <% if news.active? %>
+                    <span class="label label-primary"><%= news.status %></span>
+                  <% else %>
+                    <span class="label label-danger"><%= news.status %></span>
+                  <% end %>
+                </td>
+                <td><small><%= news.subject %></small></td>
+                <td><%= link_to 'Show', news_path(news), class: "btn btn-info btn-sm btn-outline" %>
+                    <%= link_to 'Edit', edit_news_path(news), class: "btn btn-warning btn-sm btn-outline" %>
+                    <%= link_to 'Delete', news, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-sm btn-danger btn-outline" %></td>
+              </tr>
+            <% end %>
+            </tbody>
+          </table>
         </div>
       </div>
     </div>

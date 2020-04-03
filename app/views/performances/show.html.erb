@@ -1,25 +1,21 @@
-<div class="wrapper gray-bg" style="min-height: 100%; min-width: 100%;">
-  <div class="wrapper wrapper-content">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="ibox">
-          <div class="ibox-title">
-            <h5>Performance Show <small>review performance.</small></h5>
-          </div>
-          <div class="ibox-content">
-            <div class="form-group  row">
-              <div class="col-sm-2 col-form-label">Title</div>
-              <div class="col-sm-10 form-control"><%= @performance.title %></div>
-              <div class="col-sm-2 col-form-label">Status</div>
-              <div class="col-sm-10 form-control"><%= @performance.status %></div>
-              <div class="col-sm-2 col-form-label">Period</div>
-              <div class="col-sm-10 form-control"><%= @performance.period %></div>
-              <div class="col-sm-2 col-form-label">Subject</div>
-              <div class="col-sm-10 form-control"><%= @performance.subject %></div>
-              <div class="col-sm-10">
-                <%= link_to 'Back', performances_path, class: "btn btn-white btn-sm" %>
-              </div>
-            </div>
+<div class="row">
+  <div class="col-lg-12">
+    <div class="ibox">
+      <div class="ibox-title">
+        <h5>Performance Show <small>review performance.</small></h5>
+      </div>
+      <div class="ibox-content">
+        <div class="form-group  row">
+          <div class="col-sm-2 col-form-label">Title</div>
+          <div class="col-sm-10 form-control"><%= @performance.title %></div>
+          <div class="col-sm-2 col-form-label">Status</div>
+          <div class="col-sm-10 form-control"><%= @performance.status %></div>
+          <div class="col-sm-2 col-form-label">Period</div>
+          <div class="col-sm-10 form-control"><%= @performance.period %></div>
+          <div class="col-sm-2 col-form-label">Subject</div>
+          <div class="col-sm-10 form-control"><%= @performance.subject %></div>
+          <div class="col-sm-10">
+            <%= link_to 'Back', performances_path, class: "btn btn-white btn-sm" %>
           </div>
         </div>
       </div>
