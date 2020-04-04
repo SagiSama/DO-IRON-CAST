@@ -35,4 +35,7 @@ yarn-debug.log*
 .yarn-integrity
 .env
 .gitignore
+.generators
+.idea
+.rakeTasks
 Gemfile.lock

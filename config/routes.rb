@@ -5,7 +5,7 @@ Rails.application.routes.draw do
   root to: 'top#index', as: 'top'
 
   scope :admin do
-    root to: 'products#index', as: 'dashboard'
+    root to: 'news#index', as: 'dashboard'
     resources :products
     resources :news
     resources :performances
