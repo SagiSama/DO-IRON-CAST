@@ -24,4 +24,9 @@ document.addEventListener("turbolinks:load", () => {
     $('[data-toggle="popover"]').popover()
 })
 
+require('popper.js')
 require('inspinia')
+require('packs/pace.min')
+require('packs/wow.min')
+require('packs/classie')
+require('packs/cbpAnimatedHeader')
