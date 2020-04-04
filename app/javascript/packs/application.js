@@ -18,15 +18,3 @@ require('jquery')
 
 import "bootstrap";
 import "../stylesheets/application"  // <- Add this line
-
-document.addEventListener("turbolinks:load", () => {
-    $('[data-toggle="tooltip"]').tooltip()
-    $('[data-toggle="popover"]').popover()
-})
-
-require('popper.js')
-require('inspinia')
-require('packs/pace.min')
-require('packs/wow.min')
-require('packs/classie')
-require('packs/cbpAnimatedHeader')
