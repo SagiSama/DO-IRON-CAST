@@ -1,0 +1,29 @@
+<div class="ibox-content">
+  <%= form_for @product, html: {class: "form-group  row"} do |f| %>
+    <%= f.label :name, class: "col-sm-2 col-form-label" %>
+    <div class="col-sm-10">
+      <%= f.text_field :name, class: "form-control" %>
+    </div>
+    <%= f.label :price, class: "col-sm-2 col-form-label" %>
+    <div class="col-sm-10">
+      <%= f.number_field :price, class: "form-control" %>
+    </div>
+    <%= f.label :status, class: "col-sm-2 col-form-label" %>
+    <div class="col-sm-10">
+      <div class="form-control">
+        <small class="text-navy">Active</small>
+        <%= f.radio_button :status, :active, checked: true %>
+        <small class="text-navy">Inactive</small>
+        <%= f.radio_button :status, :inactive %>
+      </div>
+    </div>
+    <%= f.label :note, class: "col-sm-2 col-form-label" %>
+    <div class="col-sm-10">
+      <%= f.text_area :note, class: "form-control" %>
+    </div>
+    <div class="col-sm-10">
+      <%= link_to 'Back', products_path, class: "btn btn-white btn-sm" %>
+      <button class="btn btn-primary btn-sm" type="submit">Save changes</button>
+    </div>
+  <% end %>
+</div>

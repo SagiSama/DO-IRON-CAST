@@ -6,10 +6,22 @@
     <%= csp_meta_tag %>
 
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_pack_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
-  <body>
-    <%= yield %>
+  <%= render "layouts/header" %>
+
+  <body class="pace-done">
+    <div id="wrapper">
+      <nav class="navbar-default navbar-static-side" role="navigation">
+        <%= render "layouts/navigation_bar" %>
+      </nav>
+      <div id="page-wrapper" class="gray-bg" style="min-height: 980px;">
+        <%= yield %>
+      </div>
+    </div>
   </body>
+
+  <%= render "layouts/footer" %>
 </html>

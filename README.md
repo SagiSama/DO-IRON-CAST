@@ -23,12 +23,8 @@ Things you may want to cover:
     DATABASE_PASSWORD=unimedia
 
     # rails env
-    RAILS_ENV=development
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# DO-IRON-CAST
+* System dependencies
+  - ubuntu 18.04
+* Configuration
+  - db conf create .env
+    # DO-IRON-CAST
