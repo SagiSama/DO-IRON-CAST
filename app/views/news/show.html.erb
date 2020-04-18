@@ -1,20 +1,81 @@
-<div class="row">
-  <div class="col-lg-12">
-    <div class="ibox">
-      <div class="ibox-title">
-        <h5>News Show <small>review news.</small></h5>
-      </div>
-      <div class="ibox-content">
-        <div class="form-group  row">
-          <div class="col-sm-2 col-form-label">Title</div>
-          <div class="col-sm-10 form-control"><%= @news.title %></div>
-          <div class="col-sm-2 col-form-label">Status</div>
-          <div class="col-sm-10 form-control"><%= @news.status %></div>
-          <div class="col-sm-2 col-form-label">Subject</div>
-          <div class="col-sm-10 form-control"><%= @news.subject %></div>
-          <div class="col-sm-10">
-            <%= link_to 'Back', news_index_path, class: "btn btn-white btn-sm" %>
+<div class="row wrapper border-bottom white-bg page-heading">
+  <div class="col-lg-10">
+    <h2>News Show <small>show news.</small></h2>
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item">
+        <%= link_to '/News index', news_index_path %>
+      </li>
+    </ol>
+  </div>
+</div>
+
+<div class="wrapper-content">
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="ibox product-detail">
+        <div class="ibox-content">
+          <div class="row">
+            <div class="col-md-6">
+              <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                  <% if @news.images.attached? %>
+                    <% i = 0 %>
+                    <% @news.images.each do |image| %>
+                      <% if i == 0 %>
+                      <% active = "active" %>
+                      <% end %>
+                      <li data-target="#carouselExampleIndicators" data-slide-to="#{i}" class="<%= active %>"></li>
+                      <% i = i + 1 %>
+                    <% end %>
+                  <% end %>
+                </ol>
+                <div class="carousel-inner">
+                  <% if @news.images.attached? %>
+                    <% i = 0 %>
+                    <% @news.images.each do |image| %>
+                      <% if i == 0 %>
+                        <% active = "active" %>
+                      <% end %>
+                      <div class="carousel-item <%= active %>">
+                        <%= image_tag(url_for(image), class: "d-block w-100", alt: "#{i}") %>
+                        <div class="carousel-caption text-light bg-dark d-md-block">
+                          <%= image.filename %>
+                        </div>
+                      </div>
+                      <% i = i + 1 %>
+                    <% end %>
+                  <% end %>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <h2 class="font-bold m-b-xs">
+                <%= @news.title %>
+              </h2>
+              <div class="m-t-md">
+                <small><%= @news.subject %></small>
+              </div>
+              <hr>
+              <%= @news.status %>
+              <hr>
+              <div>
+              </div>
+            </div>
           </div>
+        </div>
+        <div class="ibox-footer">
+          <span class="float-right">
+            Created at - <i class="fa fa-clock-o"></i> <%= @news.created_at %>
+          </span>
+          <%= link_to 'Back', news_index_path, class: "btn btn-white btn-sm" %>
         </div>
       </div>
     </div>

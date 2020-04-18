@@ -1,9 +1,17 @@
-<div class="row">
-  <div class="col-lg-12">
-    <div class="ibox">
-      <div class="ibox-title">
-        <h5>News Edit <small>update news.</small></h5>
-      </div>
+<div class="row wrapper border-bottom white-bg page-heading">
+  <div class="col-lg-10">
+    <h2>News Edit <small>update news.</small></h2>
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item">
+        <%= link_to '/News index', news_index_path %>
+      </li>
+    </ol>
+  </div>
+</div>
+
+<div class="wrapper-content">
+  <div class="row">
+    <div class="col-lg-12">
       <%= render "form" %>
     </div>
   </div>
