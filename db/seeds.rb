@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Account.create([{ name: 'Ganja', email: 'admin@gmail.com', password: '@dm1n_#$%7' },
-                         { name: 'Ganja', email: 'sys_admin@gmail.com', password: '2@3#x%x$i??i' }])
+                         { name: 'Administrator', email: 'sys_admin@gmail.com', password: '2@3#x%x$i??i' }])
 Product.create([{ name: 'product1', status: Product.statuses[:enable]  },
                          { name: 'product2', note: 'note 2', price: 123, status: Product.statuses[:enable] },
                          { name: 'inactive product', status: Product.statuses[:disable] }])
