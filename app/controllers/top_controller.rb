@@ -2,9 +2,9 @@ class TopController < ApplicationController
   layout :landing_page
 
   def index
-    @products = Product.active
-    @newses = News.active
-    @performances = Performance.active
+    @newses = News.enable
+    @performances = Performance.enable
+    @products = Product.enable
   end
 
   def landing_page
