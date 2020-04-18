@@ -47,8 +47,9 @@
             <thead>
             <tr>
               <th>Images</th>
-              <th>Title</th>
-              <th>Subject</th>
+              <th>Name</th>
+              <th>Price</th>
+              <th>Note</th>
               <th>Status</th>
               <th class="text-right">Action</th>
             </tr>
@@ -64,7 +65,8 @@
                   <% end %>
                 </td>
                 <td><div class="icheckbox_square-green checked" style="position: relative;"><%= product.name %></div></td>
-                <td><small><%= product.price %></small></td>
+                <td><%= product.price %></td>
+                <td><small><%= product.note %></small></td>
                 <td class="footable-visible">
                   <% if product.enable? %>
                     <span class="label label-primary"><%= product.status %></span>
