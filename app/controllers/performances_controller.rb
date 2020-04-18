@@ -39,6 +39,6 @@ class PerformancesController < ApplicationController
   end
 
   def performance_params
-    params.require(:performance).permit(:title, :subject, :period, :status)
+    params.require(:performance).permit(:title, :subject, :period, :status, images: [])
   end
 end
