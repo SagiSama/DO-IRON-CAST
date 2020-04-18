@@ -1,29 +1,82 @@
-<div class="ibox-content">
-  <%= form_for @product, html: {class: "form-group  row"} do |f| %>
-    <%= f.label :name, class: "col-sm-2 col-form-label" %>
-    <div class="col-sm-10">
-      <%= f.text_field :name, class: "form-control" %>
-    </div>
-    <%= f.label :price, class: "col-sm-2 col-form-label" %>
-    <div class="col-sm-10">
-      <%= f.number_field :price, class: "form-control" %>
-    </div>
-    <%= f.label :status, class: "col-sm-2 col-form-label" %>
-    <div class="col-sm-10">
-      <div class="form-control">
-        <small class="text-navy">Active</small>
-        <%= f.radio_button :status, :active, checked: true %>
-        <small class="text-navy">Inactive</small>
-        <%= f.radio_button :status, :inactive %>
+<div class="row">
+  <div class="col-lg-12">
+    <div class="tabs-container">
+      <ul class="nav nav-tabs">
+        <li><a class="nav-link active" data-toggle="tab" href="#tab-form"> Discount</a></li>
+        <li><a class="nav-link" data-toggle="tab" href="#tab-image"> Images</a></li>
+      </ul>
+      <div class="tab-content">
+        <div id="tab-form" class="tab-pane active">
+          <div class="panel-body">
+            <fieldset>
+              <%= form_for @product do |f| %>
+                <div class="form-group row">
+                  <label class="col-sm-2 col-form-label"><%= f.label :images %>:</label>
+                  <div class="col-sm-10">
+                    <%= f.file_field :images, multiple: true %>
+                    <%= f.file_field :images, multiple: true %>
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label class="col-sm-2 col-form-label"><%= f.label :name %>:</label>
+                  <div class="col-sm-10">
+                    <%= f.text_field :name, class: "form-control" %>
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label class="col-sm-2 col-form-label"><%= f.label :price %>:</label>
+                  <div class="col-sm-10">
+                    <%= f.number_field :price, class: "form-control" %>
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label class="col-sm-2 col-form-label"><%= f.label :status %>:</label>
+                  <div class="col-sm-10">
+                    <small class="text-navy">Enable</small>
+                    <%= f.radio_button :status, :enable, checked: true %>
+                    <small class="text-navy">Disable</small>
+                    <%= f.radio_button :status, :disable %>
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label class="col-sm-2 col-form-label"><%= f.label :note %>:</label>
+                  <div class="col-sm-10">
+                    <%= f.text_area :note, class: "form-control" %>
+                  </div>
+                </div>
+                <div class="col-sm-10">
+                  <%= link_to 'Back', products_path, class: "btn btn-white btn-sm" %>
+                  <button class="btn btn-primary btn-sm" type="submit">Save changes</button>
+                </div>
+              <% end %>
+            </fieldset>
+          </div>
+        </div>
+        <div id="tab-image" class="tab-pane">
+          <div class="panel-body">
+            <div class="table-responsive">
+              <table class="table table-bordered table-stripped">
+                <thead>
+                <tr>
+                  <th>Image</th>
+                  <th>Name</th>
+                </tr>
+                </thead>
+                <tbody>
+                <% if @product.images.attached? %>
+                  <% @product.images.each do |image| %>
+                    <tr>
+                      <td><%= image_tag(url_for(image), class: "img-preview img-preview-sm") %></td>
+                      <td><label><%= image.filename %></label></td>
+                    </tr>
+                  <% end %>
+                <% end %>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-    <%= f.label :note, class: "col-sm-2 col-form-label" %>
-    <div class="col-sm-10">
-      <%= f.text_area :note, class: "form-control" %>
-    </div>
-    <div class="col-sm-10">
-      <%= link_to 'Back', products_path, class: "btn btn-white btn-sm" %>
-      <button class="btn btn-primary btn-sm" type="submit">Save changes</button>
-    </div>
-  <% end %>
+  </div>
 </div>
