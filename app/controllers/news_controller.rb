@@ -39,6 +39,6 @@ class NewsController < ApplicationController
   end
 
   def news_params
-    params.require(:news).permit(:title, :subject, :status)
+    params.require(:news).permit(:title, :subject, :status, images: [])
   end
 end

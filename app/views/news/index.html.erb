@@ -1,49 +1,100 @@
-<div class="row">
-  <div class="col-lg-12">
-    <div class="ibox">
-      <div class="ibox-title">
-        <h5>News List <small>all news.</small></h5>
+<div class="row wrapper border-bottom white-bg page-heading">
+  <div class="col-lg-10">
+    <h2>News Index <small>list news.</small></h2>
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item">
+        <%= link_to '/News index', news_index_path %>
+      </li>
+    </ol>
+  </div>
+</div>
+
+<div class="wrapper-content ecommerce">
+  <div class="ibox-content m-b-sm border-bottom">
+    <div class="row">
+      <div class="col-sm-2">
+          <%= link_to 'New', new_news_path, class: "btn btn-success btn-facebook btn-outline" %>
       </div>
-      <div class="ibox-content">
-        <div class="row">
-          <%= link_to 'New', new_news_path, class: "btn btn-success btn-facebook btn-outline"%>
-          <div class="col-sm-3">
-            <div class="input-group">
-              <input placeholder="Search" type="text" class="form-control form-control-sm">
-              <span class="input-group-append">
-          <button type="button" class="btn btn-sm btn-primary">Go!</button>
-        </span>
-            </div>
-          </div>
+      <div class="col-sm-4">
+        <div class="form-group">
+          <label class="col-form-label" for="product_name">Title</label>
+          <input type="text" id="product_name" name="product_name" value="" placeholder="Name" class="form-control">
         </div>
-        <div class="table-responsive">
-          <table class="table table-striped">
+      </div>
+      <div class="col-sm-2">
+        <div class="form-group">
+          <label class="col-form-label" for="price">Subject</label>
+          <input type="text" id="price" name="price" value="" placeholder="Note" class="form-control">
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="form-group">
+          <label class="col-form-label" for="status">Status</label>
+          <select name="status" id="status" class="form-control">
+            <option value="1" selected="">Enabled</option>
+            <option value="0">Disabled</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="ibox">
+        <div class="ibox-content">
+          <table class="table table-stripped">
             <thead>
             <tr>
+              <th>Images</th>
               <th>Title</th>
-              <th>Status</th>
               <th>Subject</th>
-              <th>Action</th>
+              <th>Status</th>
+              <th class="text-right">Action</th>
             </tr>
             </thead>
             <tbody>
-            <% @newses.each do |news| %>
-              <tr class="footable-even">
-                <td><div class="icheckbox_square-green checked" style="position: relative;"><%= news.title %></div></td>
-                <td class="footable-visible">
-                  <% if news.active? %>
-                    <span class="label label-primary"><%= news.status %></span>
-                  <% else %>
-                    <span class="label label-danger"><%= news.status %></span>
-                  <% end %>
-                </td>
-                <td><small><%= news.subject %></small></td>
-                <td><%= link_to 'Show', news_path(news), class: "btn btn-info btn-sm btn-outline" %>
-                    <%= link_to 'Edit', edit_news_path(news), class: "btn btn-warning btn-sm btn-outline" %>
-                    <%= link_to 'Delete', news, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-sm btn-danger btn-outline" %></td>
-              </tr>
-            <% end %>
+              <% @newses.each do |news| %>
+                <tr class="footable-even">
+                  <td>
+                    <% if news.images.attached? %>
+                      <% news.images.each do |image| %>
+                        <%= image_tag(url_for(image), class: "img-thumbnail", style: "width:8em; height:6em;") %>
+                      <% end %>
+                    <% end %>
+                  </td>
+                  <td><div class="icheckbox_square-green checked" style="position: relative;"><%= news.title %></div></td>
+                  <td><small><%= news.subject %></small></td>
+                  <td class="footable-visible">
+                    <% if news.enable? %>
+                      <span class="label label-primary"><%= news.status %></span>
+                    <% else %>
+                      <span class="label label-danger"><%= news.status %></span>
+                    <% end %>
+                  </td>
+                  <td class="text-right">
+                    <div class="btn-group">
+                      <%= link_to 'Show', news_path(news), class: "btn-white btn btn-xs" %>
+                      <%= link_to 'Edit', edit_news_path(news), class: "btn-white btn btn-xs" %>
+                      <%= link_to 'Delete', news, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn-white btn btn-xs btn-danger btn-outline" %>
+                    </div>
+                  </td>
+                </tr>
+              <% end %>
             </tbody>
+            <tfoot>
+            <tr>
+              <td colspan="6" class="footable-visible">
+                <ul class="pagination float-right">
+                  <li class="footable-page-arrow"><a data-page="first" href="#first">«</a></li>
+                  <li class="footable-page-arrow"><a data-page="prev" href="#prev">‹</a></li>
+                  <li class="footable-page"><a data-page="0" href="#">1</a></li>
+                  <li class="footable-page active"><a data-page="1" href="#">2</a></li>
+                  <li class="footable-page-arrow disabled"><a data-page="next" href="#next">›</a></li>
+                  <li class="footable-page-arrow disabled"><a data-page="last" href="#last">»</a></li></ul>
+              </td>
+            </tr>
+            </tfoot>
           </table>
         </div>
       </div>

@@ -9,7 +9,7 @@
   <div class="navbar-wrapper">
     <nav class="navbar navbar-default navbar-fixed-top navbar-expand-md" role="navigation">
       <div class="container">
-        <a class="navbar-brand" href="index.html">WEBAPPLAYERS</a>
+        <a class="navbar-brand">ГУУЛИН ДӨШ</a>
         <div class="navbar-header page-scroll">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
             <i class="fa fa-bars"></i>
@@ -17,12 +17,13 @@
         </div>
         <div class="collapse navbar-collapse justify-content-end" id="navbar">
           <ul class="nav navbar-nav navbar-right">
-            <li><a class="nav-link page-scroll active" href="#page-top">Home</a></li>
-            <li><a class="nav-link page-scroll" href="#features">Features</a></li>
-            <li><a class="nav-link page-scroll" href="#team">Team</a></li>
-            <li><a class="nav-link page-scroll" href="#timeline">Testimonials</a></li>
-            <li><a class="nav-link page-scroll" href="#pricing">Pricing</a></li>
-            <li><a class="nav-link page-scroll" href="#contact">Contact</a></li>
+            <li><a class="nav-link page-scroll active" href="#page-top">Нүүр</a></li>
+            <li><a class="nav-link page-scroll" href="#aboutus">Бидний тухай</a></li>
+            <li><a class="nav-link page-scroll" href="#product">Бүтээгдэхүүн</a></li>
+            <li><a class="nav-link page-scroll" href="#performance">гүйцэтгэл</a></li>
+            <li><a class="nav-link page-scroll" href="#news">Мэдээ мэдээлэл</a></li>
+            <li><a class="nav-link page-scroll" href="#workplace">ажлын байр</a></li>
+            <li><a class="nav-link page-scroll" href="#contact">Холбоо барих</a></li>
           </ul>
         </div>
       </div>
@@ -33,12 +34,13 @@
     <ol class="carousel-indicators">
       <li data-target="#inSlider" data-slide-to="0" class="active"></li>
       <li data-target="#inSlider" data-slide-to="1" class=""></li>
+      <li data-target="#inSlider" data-slide-to="2" class=""></li>
     </ol>
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active">
         <div class="container">
           <div class="carousel-caption">
-            <h1>We craft<br>
+            <h1>Уриа үг<br>
               brands, web apps,<br>
               and user interfaces<br>
               we are IN+ studio</h1>
@@ -49,12 +51,13 @@
             </p>
           </div>
           <div class="carousel-image wow zoomIn animated" style="visibility: visible;">
-            <img src="/assets/laptop.png" alt="laptop">
+            <%= image_tag "landing/blacksmith.png" %>
           </div>
         </div>
         <!-- Set background for slide in css -->
-        <div class="header-back one"></div>
-
+        <div class="header-back one">
+          <%= image_tag "landing/header_top_one.jpg" %>
+        </div>
       </div>
       <div class="carousel-item">
         <div class="container">
@@ -65,7 +68,22 @@
           </div>
         </div>
         <!-- Set background for slide in css -->
-        <div class="header-back two"></div>
+        <div class="header-back two">
+          <%= image_tag "landing/header_top_five.png" %>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="container">
+          <div class="carousel-caption blank">
+            <h1>We create meaningful <br> interfaces that inspire.</h1>
+            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p>
+            <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+          </div>
+        </div>
+        <!-- Set background for slide in css -->
+        <div class="header-back two">
+          <%= image_tag "landing/header_top_five.png" %>
+        </div>
       </div>
     </div>
     <a class="carousel-control-prev" href="#inSlider" role="button" data-slide="prev">
@@ -78,23 +96,21 @@
     </a>
   </div>
 
-  <section id="features" class="container services">
+  <section id="aboutus" class="container services">
     <div class="row">
-      <div class="col-sm-4">
-        <h2>Davuu tal</h2>
-        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus.</p>
-        <p><a class="navy-link" href="#" role="button">Details »</a></p>
+      <div class="col-lg-12 text-center">
+        <div class="navy-line"></div>
+        <h1>Бидний тухай<br></h1>
+        <p>Орчин үеийн. Мэргэжлийн инженерийн тооцоолол. </p>
       </div>
-      <div class="col-sm-4">
-        <h2>Ontslog</h2>
-        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus.</p>
-        <p><a class="navy-link" href="#" role="button">Details »</a></p>
-      </div>
-      <div class="col-sm-4">
-        <h2>Bidniig songoh shaltgaan</h2>
-        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus.</p>
-        <p><a class="navy-link" href="#" role="button">Details »</a></p>
-      </div>
+    </div>
+    <div class="row">
+      <p>
+        “Гуулин Дөш” ХХК нь анх 2007 онд төмөр хийцийн үйлдвэрлэл чиглэлээр байгуулагдаж, өдгөө 13 жилийн турш үйл ажиллагаагаа тасралтгүй явуулж байна.
+        Энэ хугацаанд хувь хүн болон албан байгууллагын захиалгын бүх төрлийн төмөр хийцийн ажлыг архитекторын зураг төсөв,
+        тооцоон дээр үндэслэн мэргэжлийн инженер техникийн ажилтнуудын ур чадвараар улс орны хөгжил цэцэглэлтэнд хувь нэмрээ оруулж,
+        олон сайхан нэр хүнд бүхий ажлуудыг амжилттай хийж гүйцэтгэж ирсэн.
+      </p>
     </div>
   </section>
 
@@ -102,48 +118,61 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <div class="navy-line"></div>
-        <h1>Ontslog 10+ shinj<br> <span class="navy">buteegdehuunee mash sain chanaraar buren tsugtaj urladag</span> </h1>
-        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+        <h1>Биднийг сонгох шалтгаан<br> <span class="navy">+</span> </h1>
+        <p>Орчин үеийн. Мэргэжлийн инженерийн тооцоолол. </p>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-3 text-center wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
-        <div>
-          <i class="fa fa-mobile features-icon"></i>
-          <h2>Jiliin 4 ulirald tesvertie</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus.</p>
+      <div class="col-md-3 text-center wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+        <div class="m-t-lg">
+          <h2>Чанар</h2>
+          <p>Бид чанар стандартын шаардлага хангасан түүхий эдээр бат бөх, баталгаат хугацаа бүхий бүтээгдэхүүн үйлдвэрлэнэ.</p>
+          <p><a class="navy-link" href="#" role="button">... »</a></p>
         </div>
         <div class="m-t-lg">
-          <i class="fa fa-bar-chart features-icon"></i>
-          <h2>Turgen shuurhai</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus.</p>
+          <h2>Туршлага</h2>
+          <p>Бид салбартаа 20-иод жилийн туршлагатай, анхдагч төмөр хийцийн үйлдвэрүүдийн нэг билээ.</p>
+          <p><a class="navy-link" href="#" role="button">... »</a></p>
+        </div>
+        <div class="m-t-lg">
+          <h2>Итгэл найдвар</h2>
+          <p>Бид бүтээгдэхүүнээ түргэн шуурхай гүйцэтгэж, таны итгэл найдвартай түнш, хамтрагч байж чадна.</p>
+          <p><a class="navy-link" href="#" role="button">... »</a></p>
         </div>
       </div>
       <div class="col-md-6 text-center  wow zoomIn animated" style="visibility: visible;">
-        <img src="/assets/perspective.png" alt="dashboard" class="img-fluid">
+        <%= image_tag "landing/blacksmith_dr.jpg", alt: "dashboard", class: "img-fluid" %>
       </div>
       <div class="col-md-3 text-center wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
         <div>
           <i class="fa fa-envelope features-icon"></i>
-          <h2>Zahialga ugsun humuust</h2>
-          <p>Nemelteer ugsar uilchildeg.</p>
         </div>
         <div class="m-t-lg">
           <i class="fa fa-google features-icon"></i>
-          <h2>Alban ysnii</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus.</p>
+          <h2>Зөвлөгөө</h2>
+          <p>Мэргэжлийн инженерийн тооцоолол дээр үндэслэн танд хэрэгтэй зөвлөгөөг өгнө.</p>
+        </div>
+        <div>
+          <i class="fa fa-mobile features-icon"></i>
+          <h2>Загвар</h2>
+          <p>Мэргэжлийн архитекторын шийдлээр санал болгох загвар дизайн, өнгө будаг бүхий бүтээгдэхүүн.</p>
+        </div>
+        <div class="m-t-lg">
+          <i class="fa fa-bar-chart features-icon"></i>
+          <h2>Технологи</h2>
+          <p>Орчин үеийн тоног төхөөрөмжөөр мэргэжлийн инженер техникийн ажилтнууд зөвхөн танд зориулсан  бүтээгдэхүүнийг урлана.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <section id="team" class="gray-section team">
+  <section id="product" class="gray-section team">
     <div class="container">
       <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
           <div class="navy-line"></div>
-          <h1>Our Product</h1>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p>
+          <h1>Бүтээгдэхүүн</h1>
+          <p>бат бөх, баталгаат хугацаа бүхий бүтээгдэхүүн.</p>
         </div>
       </div>
       <div class="row">
@@ -151,10 +180,15 @@
           <div class="col-sm-3 wow fadeInLeft animated">
             <div class="ibox">
               <div class="ibox-content product-box">
-                <div class="product-imitation"><%= image_tag "unnamed.jpg" %></div>
+                <div class="product-imitation">
+                  <% if product.images.attached? %>
+                    <% product.images.each do |image| %>
+                      <%= image_tag(url_for(image), style: "width:100%; height:100%;") %>
+                    <% end %>
+                  <% end %>
+                </div>
                 <div class="product-desc"><span class="product-price"><%= product.price %></span>
-                  <small class="text-muted">Category</small>
-                  <a href="#" class="product-name"><%= product.name %></a>
+                  <a href="" class="product-name"><%= product.name %></a>
                   <div class="small m-t-xs"><%= product.note %></div>
                 </div>
               </div>
@@ -165,38 +199,51 @@
     </div>
   </section>
 
-  <section class="timeline">
+  <section id="performance">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
           <div class="navy-line"></div>
-          <h1>Our workf</h1>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <h1>Хийж гүйцэтгэсэн ажлууд</h1>
+          <p>гүйцэтгэл. </p>
         </div>
       </div>
       <div class="row features-block">
         <div class="col-lg-12">
-          <div class="ibox ">
             <div class="ibox-content">
-              <h2>Performances</h2>
-              <p>
-                <strong>performance Gallery</strong> touch-enabled for more detail...</a>
-              </p>
-              <div class="lightBoxGallery">
-                <% @performances.each do |performance| %>
-                  <a href="3.jpg" title="Image from Unsplash" data-gallery="" class="wow fadeInUpBig animated"><%= image_tag "3s.jpg" %></a>
-                <% end %>
-                <a href="3.jpg" title="Image from Unsplash" data-gallery="" class="wow fadeInUpBig animated"><%= image_tag "3s.jpg" %></a>
-                <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
-                <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls" style="display: none;">
-                  <div class="slides" style="width: 108720px;"></div>
-                  <h3 class="title">Image from Unsplash</h3>
-                  <a class="prev">‹</a>
-                  <a class="next">›</a>
-                  <a class="close">×</a>
-                  <a class="play-pause"></a>
-                  <ol class="indicator"></ol>
-                </div>
+              <div class="table-responsive">
+                <table class="table shoping-cart-table">
+                  <tbody>
+                  <% @performances.each do |performance| %>
+                    <tr>
+                      <td width="70%">
+                        <div>
+                          <% if performance.images.attached? %>
+                            <% performance.images.each do |image| %>
+                              <%= image_tag(url_for(image), style: "width:100%; height:30em;") %>
+                            <% end %>
+                          <% end %>
+                        </div>
+                      </td>
+                      <td class="desc" width="30%">
+                        <h3>
+                          <a href="#" class="text-navy">
+                            <%= performance.title %>
+                          </a>
+                        </h3>
+                        <p class="small">
+                        </p>
+                        <dl class="small m-b-none">
+                          <dt><%= performance.period %></dt>
+                          <dd><%= performance.subject %></dd>
+                        </dl>
+                      </td>
+                      <td>
+                      </td>
+                    </tr>
+                  <% end %>
+                  </tbody>
+                </table>
               </div>
             </div>
           </div>
@@ -205,55 +252,79 @@
     </div>
   </section>
 
-  <section class="comments gray-section" style="margin-top: 0">
+  <section id="news" class="gray-section">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
           <div class="navy-line"></div>
-          <h1>What our partners say</h1>
-          <p>Donec sed odio dui. Etiam porta sem malesuada. </p>
+          <h1>Мэдээ мэдээлэл</h1>
+          <p>мэдээлэл. </p>
         </div>
       </div>
-      <div class="row features-block">
-        <div class="col-lg-4">
-        </div>
-
-        <div class="col-lg-4">
-        </div>
-
-        <div class="col-lg-4">
+      <div class="new-block row m-t-lg">
+        <div class="col-lg-12">
+          <div class="tabs-container">
+            <div class="tabs-left">
+              <ul class="nav nav-tabs">
+                <% i = 0 %>
+                <% @newses.each do |news| %>
+                  <% if i == 0 %>
+                    <% active = "active" %>
+                  <% end %>
+                  <li><a class="nav-link <%= active %>" data-toggle="tab" href="#tab-<%= i %>"> <%= news.title %></a></li>
+                  <% i = i + 1 %>
+                <% end %>
+              </ul>
+              <div class="tab-content">
+                <% i = 0 %>
+                <% @newses.each do |news| %>
+                  <% if i == 0 %>
+                    <% active = "active" %>
+                  <% end %>
+                  <div id="tab-<%= i %>" class="tab-pane <%= active %>">
+                    <div class="panel-body">
+                      <p><strong><%= news.title %></strong></p>
+                      <% if news.images.attached? %>
+                        <% news.images.each do |image| %>
+                          <%= image_tag(url_for(image), class: "img-fluid") %>
+                        <% end %>
+                      <% end %>
+                      <p><%= news.subject %></p>
+                    </div>
+                  </div>
+                  <% i = i + 1 %>
+                <% end %>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
+      </br>
+    </div>
     </div>
   </section>
 
-  <section class="features">
+  <section id="workplace" class="features">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
           <div class="navy-line"></div>
-          <h1>More and more extra great feautres</h1>
+          <h1>Нээлттэй ажлын байр</h1>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
           <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. </p>
         </div>
       </div>
     </div>
-  </section>
-
-  <section id="pricing" class="pricing">
-    <div class="container">
-      <div class="row m-b-lg">
-        <div class="col-lg-12 text-center">
-          <div class="navy-line"></div>
-          <h1>App Pricing</h1>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p>
-        </div>
-      </div>
-      <div class="row">
-      </div>
-      <div class="row m-t-lg">
-      </div>
-    </div>
-
   </section>
 
   <section id="contact" class="gray-section contact">
@@ -261,14 +332,14 @@
       <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
           <div class="navy-line"></div>
-          <h1>Contact Us</h1>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p>
+          <h1>Бидэнтэй холбогдох</h1>
+          <p>хаяг.</p>
         </div>
       </div>
       <div class="row m-b-lg justify-content-center">
         <div class="col-lg-3 ">
           <address>
-            <strong><span class="navy">Company name, Inc.</span></strong><br>
+            <strong><span class="navy">Guulin Dush, Inc.</span></strong><br>
             795 Folsom Ave, Suite 600<br>
             San Francisco, CA 94107<br>
             <abbr title="Phone">P:</abbr> (123) 456-7890

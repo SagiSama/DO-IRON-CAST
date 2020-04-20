@@ -1,3 +1,5 @@
 class Performance < ApplicationRecord
-  enum status: {inactive: 0, active: 1}
+  has_many_attached :images
+
+  enum status: {disable: 0, enable: 1}
 end
