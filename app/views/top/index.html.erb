@@ -283,7 +283,7 @@
                   <% end %>
                   <div id="tab-<%= i %>" class="tab-pane <%= active %>">
                     <div class="panel-body">
-                      <strong><%= news.title %></strong>
+                      <p><strong><%= news.title %></strong></p>
                       <% if news.images.attached? %>
                         <% news.images.each do |image| %>
                           <%= image_tag(url_for(image), class: "img-fluid") %>
@@ -299,7 +299,8 @@
           </div>
         </div>
       </div>
-      <br></div>
+      </br>
+    </div>
     </div>
   </section>
 
