@@ -20,4 +20,6 @@ $(document).ready(function () {
 });
 
 // Activate WOW.js plugin for animation on scrol
+import WOW from 'wow.js/dist/wow.js';
+
 new WOW().init();
