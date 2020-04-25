@@ -172,7 +172,7 @@
         </div>
       </div>
       <div class="col-md-6 text-center wow flipInX" style="visibility: visible;">
-        <%= image_tag "landing/perspective.png", alt: "dashboard", class: "img-fluid" %>
+        <%= image_tag "landing/smit_header.jpg", alt: "dashboard", class: "img-fluid" %>
       </div>
       <div class="col-md-3 text-center wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
         <div class="m-t-lg">
@@ -245,14 +245,14 @@
                   <h2><%= performance.title %></h2>
                 </div>
                 <div class="row">
-                  <div class="col-md-8">
+                  <div class="col-md-7">
                     <% if performance.images.attached? %>
                       <% performance.images.each do |image| %>
                         <%= image_tag(url_for(image), style: "width: 100%") %>
                       <% end %>
                     <% end %>
                   </div>
-                  <div class="col-md-4">
+                  <div class="col-md-5">
                     <p><i class="fa fa-calendar"></i><i> <%= performance.period %></i></p>
                     <h5><i><%= performance.subject %></i></h5>
                   </div>
