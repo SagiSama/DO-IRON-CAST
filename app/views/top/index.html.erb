@@ -412,38 +412,43 @@
     </div>
   </section>
 
-  <section id="performance">
+  <section id="performance" class="gray-section">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
           <div class="navy-line"></div>
-          <h1><i>Хийсэн ажлууд</i></h1><br>
+          <h1><i>Хийж гүйцэтгэсэн ажлууд</i></h1><br>
         </div>
       </div>
-      <div class="row wow fadeInRightBig animated">
-        <% @performances.each do |performance| %>
-          <div class="col-sm">
-            <div class="ibox border">
-              <div class="ibox-title">
-                <h5><i><%= performance.title %></i></h5>
-              </div>
-              <div>
-                <div class="ibox-content no-padding border-left-right">
-                  <% if performance.images.attached? %>
-                    <% performance.images.each do |image| %>
-                      <%= image_tag(url_for(image), style: "width:100%; height:100%;") %>
-                    <% end %>
-                  <% end %>
+    </div>
+    <div class="row justify-content-md-center">
+      <div class="col-lg-10">
+        <div class="slick_demo_2">
+          <% @performances.each do |performance| %>
+            <div>
+              <div class="ibox-content">
+                <div class="border-bottom">
+                  <h2><%= performance.title %></h2>
                 </div>
-                <div class="ibox-content profile-content">
-                  <p><i class="fa fa-calendar"></i><i> <%= performance.period %></i></p>
-                  <h5><i><%= performance.subject %></i></h5>
+                <div class="row">
+                  <div class="col-md-5">
+                    <% if performance.images.attached? %>
+                      <% performance.images.each do |image| %>
+                        <%= image_tag(url_for(image), style: "width: 100%; height:8em;") %>
+                      <% end %>
+                    <% end %>
+                  </div>
+                  <div class="col-md-7">
+                    <p><i class="fa fa-calendar"></i><i> <%= performance.period %></i></p>
+                    <h5><i><%= performance.subject %></i></h5>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        <% end %>
+          <% end %>
+        </div>
       </div>
+      <br><strong><%= @performances.count %></strong><br>
     </div>
   </section>
 
