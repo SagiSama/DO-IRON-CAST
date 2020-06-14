@@ -3,7 +3,7 @@ class ApplicationController < ActionController::Base
 
   def layout_by_resource
     if devise_controller?
-      'application'
+      'landing_page'
     end
   end
 end
